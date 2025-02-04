@@ -1,0 +1,35 @@
+# dataset: "infore"
+dataset: "ViSSpeech"
+
+path:
+  corpus_path: "./input/infore"
+  # lexicon_path: "lexicon/vi-new-lexicon.txt"
+  # lexicon_path: "acoustic_model/vietnamese_mfa.txt"
+  lexicon_path: "mfa_new/vietnamese_hanoi_mfa.dict"
+  raw_path: "./raw_data/ViSSpeech-6k-sp"
+  preprocessed_path: "./preprocessed_data/ViSSpeech-6k-sp"
+  mfa_g2p_model_path: "C:/Users/ASUS/Documents/MFA/pretrained_models/g2p/vietnamese_hanoi_mfa.zip"
+  temp_dir: "temp_synthesize"
+
+preprocessing:
+  val_size: 512
+  text:
+    text_cleaners: ["vietnamese_cleaners"]
+    language: "vi"
+  audio:
+    sampling_rate: 22050
+    max_wav_value: 32768.0
+  stft:
+    filter_length: 1024
+    hop_length: 256 
+    win_length: 1024 
+  mel:
+    n_mel_channels: 80
+    mel_fmin: 0
+    mel_fmax: 8000 # please set to 8000 for HiFi-GAN vocoder, set to null for MelGAN vocoder
+  pitch:
+    feature: "phoneme_level" # support 'phoneme_level' or 'frame_level'
+    normalization: True
+  energy:
+    feature: "phoneme_level" # support 'phoneme_level' or 'frame_level'
+    normalization: True

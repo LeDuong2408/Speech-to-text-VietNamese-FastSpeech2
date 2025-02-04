@@ -1,0 +1,1 @@
+mfa g2p --clean raw_data/ViSSpeech-5k vietnamese_hanoi_mfa mfa_new/mis_dict.txt

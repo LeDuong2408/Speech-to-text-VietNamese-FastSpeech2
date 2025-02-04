@@ -1,0 +1,1 @@
+mfa align --clean -t ./temp raw_data/ViSSpeech-6k-sp mfa_new/vietnamese_hanoi_mfa.dict vietnamese_mfa preprocessed_data/ViSSpeech-6k-sp/TextGrid --punctuation "!?"

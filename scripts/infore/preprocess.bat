@@ -1,0 +1,1 @@
+python preprocess.py config/infore/preprocess.yaml

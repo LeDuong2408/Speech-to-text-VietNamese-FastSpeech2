@@ -1,0 +1,1 @@
+mfa validate --clean -t ./temp raw_data/ViSSpeech-5k mfa_new/vietnamese_hanoi_mfa.dict
