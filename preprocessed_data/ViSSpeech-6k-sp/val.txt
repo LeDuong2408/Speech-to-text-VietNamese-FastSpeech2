@@ -1,0 +1,512 @@
+521|ViSSpeech|{k oː˨˨ k u˨ˀ˥ ŋm x o˨˨ ŋm k aː˨˩˨ m ɲ ə˨˩ˀ n ɗ ɨə˨˩ k n ɔː˨˦ ɗ aː˨˨ ŋ ʔ əː˨˩˨ ɓ eː˨˨ n k a˨˩ˀ ɲ m i˨˨ ɲ x o˨˨ ŋm n ɨə˨ˀ˥}|cô cũng không cảm nhận được nó đang ở bên cạnh mình không nữa
+3517|ViSSpeech|{ʔ aː˨˨ h oː˨˨ j l iə˨˨ n k w a˨˨ j s aː˨˨ ŋ tʰ iː˨˨ k eː˨˩˨}|a hồi liền quay sang thì kể
+166|ViSSpeech|{ʔ ɛː˨˨ m ŋ uː˨˩˨ m aː˨˨ v ə˨ˀ˥ n k ɔː˨˨ n s əː˨˩ˀ}|em ngủ mà vẫn còn sợ
+4446|ViSSpeech|{ɗ oː˨˨ j z ɛː˦˥ p}|đôi dép
+4092|ViSSpeech|{m a˦˥ t k oː˨˨ s ɨə˨˩˨ j ʔ ə˨˦ m}|mắt cô sưởi ấm
+1208|ViSSpeech|{v aː˨˨ h aː˨˩ˀ j tɕ i˨˦ ɲ tɕ uː˨˩˨ ɲ ə˨˨ n k uə˨˩˨ m i˨˨ ɲ}|và hại chính chủ nhân của mình
+3653|ViSSpeech|{n ɔː˨˦ k oː˨˨ ɗ əː˨˨ n l a˨˩ˀ ŋ l ɛː˨ˀ˥ ɲ iː˨˨ n ʔ ɛː˨˨ m tʰ ɛː˨˨ w z aː˨˨ ɗ i˨˨ ɲ}|nó cô đơn lặng lẽ nhìn em theo gia đình
+136|ViSSpeech|{ɲ ɨː˨˨ k eː˨˩˨ k o˨˨ ŋm tɕ aː˨˨}|như kể công cha
+1277|ViSSpeech|{z ə˨ˀ˥ w ɓ iə˦˥ t ɗ ɔː˨˦ l aː˨˨ k uː˨˨ m aː˨˨ n tʰ ɔ˨˨ ŋm v aː˨˨ m i˨˨ ɲ n uə˨˨ j}|dẫu biết đó là kumanthong và mình nuôi
+3094|ViSSpeech|{n uː˨˩ˀ h oː˨˨ n n o˨˨ ŋm t eː˨˨ t aː˨˦ j l u˦˥ kp ɗ a˨˦ m s a˨˨ j}|nụ hôn nồng tê tái lúc đắm say
+4174|ViSSpeech|{ɓ əː˨˩˨ j h i˨˨ ɲ tʰ ɨ˦˥ k m aː˨˨ k uː˨˨ m aː˨˨ n tʰ ɔ˨˨ ŋm z a˨˨ ɲ tɕ ɔː˨˨ h aː˨˩ˀ}|bởi hình thức mà kumanthong dành cho hạ
+3630|ViSSpeech|{k oː˨˩ t tʰ ə˨˩ t tɕ a˦˥ k ɗ eː˨˩˨ z ɨ˨˩ˀ ŋ l eː˨˨ n ɲ ɨ˨ˀ˥ ŋ k a˨˨ n ɲ aː˨˨ s aː˨˩˨ n ɲ ɨː˨˨ ɓ ə˨˨ j z əː˨˨}|cột thật chắc để dựng lên những căn nhà sản như bây giờ
+4077|ViSSpeech|{t aː˨˨ w x o˨˨ ŋm k ɔː˨˦ ʔ aː˨˨ j ʔ əː˨˩˨ ɓ eː˨˨ n k a˨˩ˀ ɲ k aː˨˩˨ tɕ iː˨˩˨ k ɔː˨˦ m a˨˨ j tʰ oː˨˨ j}|tao không có ai ở bên cạnh cả chỉ có mày thôi
+1508|ViSSpeech|{ɗ aː˦˥ p ɗ eː˨˨ n ʔ əː˨˨ n m ɛː˨˩ˀ}|đáp đền ơn mẹ
+2264|ViSSpeech|{z ɔː˨˦ h aː˨ˀ˥ j h u˨˨ ŋm z ə˨˩ t z uː˨˦ t ɨ˨˨ ŋ k əː˨˨ n}|gió hãi hùng giật rú từng cơn
+5362|ViSSpeech|{ɲ ɨ˨ˀ˥ ŋ l əː˨˨ j m aː˨˨ tɕ i˨˨ ɲ n ɔː˨˦ j z ə˦˥ t ɗ u˨˦ ŋm}|Những lời mà Trinh nói rất đúng
+2438|ViSSpeech|{n eː˨˨ n m oː˨ˀ˥ j l ə˨˨ n ɗ iː˨˨ ɗ ə˨˨ w v eː˨˨ m uə˨˩ˀ n m oː˨˩ t tɕ uː˦˥ t}|nên mỗi lần đi đâu về muộn một chút
+4981|ViSSpeech|{ʔ ɛː˨˨ m k o˨˨ ŋm tɕ w iə˨˩ˀ n tʰ iː˨˨ ʔ ɛː˨˨ m k ɨː˨˦ ɗ iː˨˨}|em công chuyện thì em cứ đi
+2321|ViSSpeech|{ʔ ɛː˨˨ m k ɔː˨˦ ɲ əː˨˦ m a˨˨ w h w aː˨˨ tɕ ɔ˨˨ ŋm z ɔː˨˦ tʰ oː˨˩˨ j}|em có nhớ màu hoa trong gió thổi
+5368|ViSSpeech|{t ə˦˥ t k aː˨˩˨ k a˨˩˨ ɲ v ə˨˩ t ɲ ɨː˨˨ ɗ eː˨˨ w ɗ ɨə˨˩ k ɣ oː˨˩ˀ j z ɨə˨˩˨}|Tất cả cảnh vật như đều được gội rửa
+324|ViSSpeech|{m ɔ˨˨ ŋm tʰ ə˨˦ j k oː˨˨ tɕ əː˨˩˨ v eː˨˨}|mong thấy cô trở về
+2875|ViSSpeech|{h aː˨˨ l ə˨˦ j ɗ ɨə˨˩ k tɕ o˨˨ ŋm ŋ w aː˨˩ˀ j k w oː˦˥ k}|hà lấy được chồng ngoại quốc
+794|ViSSpeech|{k aː˨˦ j ɗ o˨˨ ŋm h oː˨˨ ɓ aː˨˦ w ɗ eː˨˦ n z əː˨˨ tɕ ɔː˨˨ k uː˨˨ m aː˨˨ n ʔ a˨˨ n ɲ ɨː˨˨ m ɔː˨˩ˀ j ŋ a˨˨ j}|cái đồng hồ báo đến giờ cho kuman ăn như mọi ngày
+5162|ViSSpeech|{l aː˨˨ m oː˨˩ t t ə˨˦ m ɣ ɨə˨˨ ŋ}|là một tấm gương sp sp sp sp 
+941|ViSSpeech|{ŋ ɨə˨˨ j x aː˦˥ k tɕ ɔː˨˨ t iə˨˨ n h ɔː˨˩˨ j tɕ oː˨ˀ˥ t aː˨˨ w k u˨ˀ˥ ŋm x o˨˨ ŋm h ɛː˨˦ z a˨˨ ŋ}|người khác cho tiền hỏi chỗ tao cũng không hé răng
+3721|ViSSpeech|{t iə˨˨ n v aː˨˨ w ɲ aː˨˨ x ɔː˨˦ ɲ ɨː˨˨ z ɔː˨˦ v aː˨˨ w ɲ aː˨˨ tɕ o˨˦ ŋm}|tiền vào nhà khó như gió vào nhà trống
+4659|ViSSpeech|{t ɨ˨˨ ŋ ɗ eː˨˨ m tɕ o˨˨ ŋm ŋ ɔ˨˦ ŋm}|từng đêm trông ngóng
+3675|ViSSpeech|{ʔ iə˨˨ n t ə˨˨ m t aː˨˨ w s ɛː˨ˀ˥ z uː˦˥ p m a˨˨ j}|yên tâm tao sẽ giúp mày
+546|ViSSpeech|{ɓ oː˨˦ m ɛː˨˩ˀ ʔ ɛː˨˨ m ɲ iː˨˨ n tʰ ɛː˨˨ w t a˨˨ j tɕ iː˨˩˨ ɲ ɨ˨˨ ŋ v ə˨ˀ˥ n x o˨˨ ŋm tʰ ə˨˦ j ʔ aː˨˨ j k aː˨˩˨}|bố mẹ em nhìn theo tay chỉ nhưng vẫn không thấy ai cả
+1912|ViSSpeech|{tɕ u˨˦ ŋm ʔ ɛː˨˨ m ɲ əː˨˦ k oː˨˨ m aː˨ˀ˥ j}|chúng em nhớ cô mãi
+5972|ViSSpeech|{h aː˨˨ n oː˨˩ˀ j}|Hà Nội
+5524|ViSSpeech|{tɕ i˨˩˨ ɲ m ɨ˨˨ ŋ z əː˨ˀ˥ z oː˨˨ j n ɔː˨˦ j}|Chỉnh mừng rỡ rồi nói
+2801|ViSSpeech|{tʰ uː˨˨ tɕ ɨə˨˨ f aː˨˨ j v oː˨˩ˀ j ɓ əː˨ˀ˥ ŋ əː˨ˀ˥ ɗ o˨˨ ŋm v eː˨˨}|thu chưa phai vội bỡ ngỡ đông về
+2081|ViSSpeech|{t aː˨˩ˀ m ɓ iə˨˩ t ʔ a˨˨ ɲ}|tạm biệt anh
+2190|ViSSpeech|{m ɛː˨˩ˀ k ɔː˨˨ n ɓ aː˨˨ n v əː˨˦ j ɓ oː˨˦}|mẹ còn bàn với bố
+3044|ViSSpeech|{tʰ iː˨˨ x o˨˨ ŋm tʰ ə˨˦ j z iː˨˨ k aː˨˩˨}|thì không thấy gì cả
+2611|ViSSpeech|{m ɛː˨˩ˀ ʔ ɛː˨˨ m l iə˨˨ n k ɛː˨˦ w t a˨˨ j ʔ ɛː˨˨ m z oː˨˨ j n ɔː˨˦ j}|mẹ em liền kéo tay em rồi nói
+4411|ViSSpeech|{m aː˨˨ l u˦˥ kp ʔ ə˨˦ j ŋ ɨə˨˨ j ʔ ɛː˨˨ m k u˨ˀ˥ ŋm t w aː˨˨ n l aː˨˨ m a˨˦ w}|mà lúc ấy người em cũng toàn là máu
+2814|ViSSpeech|{ŋ ɨə˨˨ j t aː˨˨ k u˨ˀ˥ ŋm n ɔː˨˦ j s o˨˦ ŋm n ɔː˨˦ j tɕ eː˦˥ t}|người ta cũng nói sống nói chết
+5655|ViSSpeech|{t aː˨˨ ŋ t ɔ˦˥ kp}|tang tóc
+4481|ViSSpeech|{tɕ i˨˨ ɲ ŋ iː˨ˀ˥ ɓ ə˨˨ j z əː˨˨ z uː˨˨ k ɔː˨˦ k uː˨˨ m aː˨˨ n tʰ ɔ˨˨ ŋm z uː˦˥ p ɗ əː˨ˀ˥ h a˨˨ j x o˨˨ ŋm}|chinh nghĩ bây giờ dù có kumanthong giúp đỡ hay không
+4094|ViSSpeech|{k ɔː˨˨ n v eː˨˨ z oː˨˨ j ɗ ə˨˨ j m ɛː˨˩ˀ}|con về rồi đây mẹ
+5376|ViSSpeech|{v iː˨˩ˀ k aː˨˨ w t a˨˨ ŋ tɕ eː˨˨ n tɕ uə˨˨ ɓ oː˨˨ ɗ eː˨˨ n a˨˨ j ɗ aː˨ˀ˥ z uː˦˥ p ʔ a˨˨ ɲ}|Vị cao tăng trên chùa Bồ Đề này đã giúp anh
+3529|ViSSpeech|{l ɔ˨˨ ŋm ŋ ɨə˨˨ j h iə˨˩˨ m s ə˨˨ w tʰ ɨə˦˥ k n aː˨˨ w ɗ ɔː˨˨ ɗ ɨə˨˩ k}|lòng người hiểm sâu thước nào đo được
+1735|ViSSpeech|{ŋ a˨˦ m t iə˦˥ p v iː˨˨ s aː˨˨ w}|ngắm tiếp vì sao
+5303|ViSSpeech|{v aː˨˨ tɕ ɔ˨˨ ŋm tɕ əː˦˥ p m a˦˥ t}|Và trong chớp mắt
+2035|ViSSpeech|{ʔ ɛː˨˨ m ʔ iə˨˨ w tɕ ɨə˨˨ ŋ l a˨˦ m}|em yêu trường lắm
+2335|ViSSpeech|{m a˨˩ k z uː˨˨ t aː˨˨ w z ə˦˥ t l aː˨˨ s əː˨˩ˀ m aː˨˨}|mặc dù tao rất là sợ ma
+3450|ViSSpeech|{t aː˨˨ w ɗ iː˨˨ k u˨˨ ŋm v əː˨˦ j ɲ ɛː˨˦}|tao đi cùng với nhé
+1718|ViSSpeech|{tɕ i˨˨ ɲ l iə˨˨ n n ɔː˨˦ j v əː˨˦ j ɓ aː˨˩ˀ n}|trinh liền nói với bạn
+4310|ViSSpeech|{m aː˨˨ ɓ aː˨˨ n n a˨ˀ˥ j m a˨˨ j ɓ aː˨˩˨ w l aː˨˨ k eː˨˩˨ tɕ ɔː˨˨ t aː˨˨ w ŋ ɛː˨˨ tɕ w iə˨˩ˀ n z iː˨˨}|mà ban nãy mày bảo là kể cho tao nghe chuyện gì
+1757|ViSSpeech|{k ɔː˨˨ n ɲ ɨ˨ˀ˥ ŋ tʰ ɨː˨˦ s ɔː˦˥ t l aː˨˩ˀ j k uə˨˩˨ t aː˨˨ n t i˦˥ c}|còn những thứ sót lại của tàn tích
+4055|ViSSpeech|{f aː˨˩˨ j ɓ iə˦˥ t s a˨˦ m s ɨə˨˩˨}|phải biết sắm sửa
+1527|ViSSpeech|{tɕ eː˨˨ n s ɛː˨˨ k ɔː˨˦ t aː˨˨ j s eː˨˦ v aː˨˨ m oː˨˩ t k ə˨˩ˀ w l əː˨˨ s ɛː˨˨ v aː˨˨ ʔ a˨˨ ɲ}|trên xe có tài xế và một cậu lơ xe và anh
+1125|ViSSpeech|{ɓ aː˨˨ ɓ ɔː˨˦ j l aː˨˨ m ɓ ə˨˨ m ɗ ɔ˨˩ kp m oː˨˩ t h oː˨˨ j ɲ ɨ˨˨ ŋ x o˨˨ ŋm tʰ ə˨˦ j v ɔ˨˨ ŋm k uə˨˩˨ tʰ aː˨˩˨ w v eː˨˨}|bà bói làm bầm đọc một hồi nhưng không thấy vong của thảo về
+2508|ViSSpeech|{m ɛː˨˩ˀ ʔ əː˨˨ j k ɔː˨˨ n s iː˨˨ n l oː˨ˀ˥ j}|mẹ ơi con xin lỗi
+4031|ViSSpeech|{k oː˨˨ tɕ ɨə˨˨ l ə˨˨ n k w a˨˨ j l aː˨˩ˀ j}|cô chưa lần quay lại
+325|ViSSpeech|{tɕ i˨˦ ɲ tʰ əː˨˩˨ z aː˨˨ j s a˨˨ w m oː˨˩ t m aː˨˨ n tɕ aː˨˨ w h ɔː˨˩˨ j tɕ i˨˨ ɲ l iə˨˨ n n ɔː˨˦ j}|chính thở dài sau một màn chào hỏi chinh liền nói
+3238|ViSSpeech|{m oː˨˩ t ŋ ɨə˨˨ j tɕ a˨˩ˀ j t əː˨˦ j z ə˦˥ t ɗ o˨˨ ŋm}|một người chạy tới rất đông
+1211|ViSSpeech|{l u˦˥ kp n a˨ˀ˥ j tɕ i˨˨ ɲ k ɔː˨˨ n ɲ iː˨˨ n z ɔː˨ˀ˥ z aː˨˨ ŋ spn k ɨə˨˩˨ ɗ aː˨ˀ˥ ɗ ɨə˨˩ k ɗ ɔ˨˦ ŋm}|lúc nãy trinh còn nhìn rõ ràng sp sp sp  cửa đã được đóng
+4951|ViSSpeech|{tʰ ə˨˦ j ʔ aː˨˨ j k u˨ˀ˥ ŋm v iː˨˦ k a˨˦ ɲ h w aː˨˨ s ɨə˨˨}|thấy ai cũng ví cánh hoa xưa
+823|ViSSpeech|{tɕ i˨˨ ɲ s u˨˨ ŋm s ɨə˨˦ ŋ z oː˨˨ j ɓ a˦˥ t m a˨˦ j}|chinh sung sướng rồi bắt máy
+5302|ViSSpeech|{ʔ ɛː˨˨ m l iə˨˨ n k ə˨˨ w s iː˨˨ n}|em liền cầu xin
+3770|ViSSpeech|{ŋ ɨə˨˨ j k ɔː˨˦ ʔ a˨˩˨ ɲ h ɨə˨˩˨ ŋ}|người có ảnh hưởng
+3307|ViSSpeech|{s aː˨˨ m a˨˩ t k a˦˥ c l ɔ˨˨ ŋm}|xa mặt cách lòng
+5859|ViSSpeech|{m əː˨˩˨ tɕ iə˦˥ k k ɨə˨˩˨ s oː˨˩˨ k a˨˨ n ɲ aː˨˨ k uə˨˩˨ n ɔː˨˦ z aː˨˨ ɲ iː˨˨ n}|Mở chiếc cửa sổ căn nhà của nó ra nhìn
+1788|ViSSpeech|{m a˨˨ w s ɔː˨˨ n k u˨ˀ˥ ŋm ɗ ɛː˨˩ p n ɨə˨ˀ˥ spn m uə˨˨ ʔ əː˨˩˨ ɗ ə˨˨ w v ə˨˩ˀ j}|màu son cũng đẹp nữa sp sp sp  mua ở đâu vậy
+3133|ViSSpeech|{ɗ iː˨˨ w h iː˨˨ w k əː˨˨ n z ɔː˨˦ ɗ ɔː˨˦ n m uə˨˨ ɗ o˨˨ ŋm s aː˨˨ ŋ}|đìu hiu cơn gió đón mùa đông sang
+273|ViSSpeech|{ɲ ɨ˨˨ ŋ ʔ aː˨˨ j k u˨ˀ˥ ŋm ŋ iː˨ˀ˥ tɕ oː˨ˀ˥ ɗ ɔː˨˦ l aː˨˨ k aː˨˦ j z əː˦˥ p}|nhưng ai cũng nghĩ chỗ đó là cái rớp
+3389|ViSSpeech|{tɕ i˨˨ ɲ z aː˨˩˨ ŋ z eː˨ˀ˥ k ɨə˨˨ j z oː˨˨ j n ɔː˨˦ j}|trinh giảng dễ cười rồi nói
+5410|ViSSpeech|{ɓ aː˦˥ t h ɨə˨˨ ŋ k uə˨˩˨ ɓ oː˨˦ k ɔː˨˨ n ɓ o˦˥ kp tɕ a˨˦ j tʰ iː˨˨ l iə˨˨ n k w aː˨˨ n z iː˨˨ ɗ eː˨˦ n k ɔː˨˨ n tʰ aː˨˩˨ w}|bát hương của bố con bốc cháy thì liên quan gì đến con Thảo
+3240|ViSSpeech|{k ɔː˨˨ n ɗ aː˨ˀ˥ tʰ eː˨˨ m k aː˨˨ w}|con đã thêm cao
+5255|ViSSpeech|{ŋ ɛː˨˨ tɕ w iə˨˩ˀ n tʰ ə˨˩ t l aː˨˨ tʰ uː˨˦ v iː˨˩ˀ s iː˨˨ n tɕ ə˨˨ n tʰ a˨˨ ɲ k aː˨˩˨ m ʔ əː˨˨ n}|Nghe truyện thật là thú vị xin chân thành cảm ơn
+3062|ViSSpeech|{tɕ i˨˨ ɲ x ɛː˨ˀ˥ k ɨə˨˨ j z oː˨˨ j n ɔː˨˦ j}|trinh khẽ cười rồi nói
+4818|ViSSpeech|{ŋ a˨˨ j ʔ ə˨˦ j v aː˨˨ w m uə˨˨ tʰ uː˨˨}|ngày ấy vào mùa thu
+3628|ViSSpeech|{ʔ ɛː˨˨ m k ɨː˨˦ ɗ iː˨˨ tʰ aː˨˩˨ w tɕ a˨˩ˀ j}|em cứ đi thảo chạy
+451|ViSSpeech|{ʔ ɛː˨˨ m ɓ aː˨˩˨ w spn ʔ a˨˨ ɲ ɗ iː˨˨ ɗ iː˨˨}|em bảo sp sp sp  anh đi đi
+978|ViSSpeech|{ɗ oː˨˨ j m a˦˥ t l iː˨˨ m z iː˨˨ m ɲ ɨː˨˨ ŋ ɨə˨˨ j s a˨˨ j tʰ uə˦˥ k}|đôi mắt lim dim như người say thuốc
+755|ViSSpeech|{k ɔː˨˨ n ɗ aː˨˨ ŋ t i˨˦ ɲ z uː˨˩˨ m a˨˨ j ɗ iː˨˨ ʔ a˨˨ n tɕ ɨə˨˨ k əː˨˨ m aː˨˨}|còn đang tính rủ mày đi ăn trưa cơ mà
+338|ViSSpeech|{f aː˨˩ t z iː˨˨ k u˨ˀ˥ ŋm ɗ ɨə˨˩ k t uː˨˨ j k oː˨˨}|phạt gì cũng được tùy cô
+2841|ViSSpeech|{v uə˦˥ t x o˨˨ ŋm tʰ eː˨˩˨ s uə˨˦ ŋ ɗ ɨə˨˩ k}|vuốt không thể xuống được
+4742|ViSSpeech|{x uə˨˨ n m a˨˩ t tʰ a˨˨ ɲ t uː˨˦ x o˨˨ ŋm k ɔː˨˦ tɕ uː˦˥ t z iː˨˨ k uə˨˩˨ z ə˨˨ n ɲ aː˨˨ s ɛː˨˨}|khuôn mặt thanh tú không có chút gì của dân nhà xe
+3828|ViSSpeech|{ɲ ə˦˥ t l aː˨˨ s ɛː˨˨ k ɔː˨˨ n}|nhất là xe con
+4348|ViSSpeech|{k ɔː˨˨ n ɗ aː˨˨ ŋ ŋ iː˨˨ ŋ əː˨˨ tɕ i˨˨ ɲ ɗ aː˨˨ w m ɔː˨˩˨ ɗ aː˨˩ˀ j z aː˨˨}|còn đang nghi ngờ trinh đào mỏ đại gia
+5681|ViSSpeech|{t aː˨˨ w x o˨˨ ŋm ɗ iː˨˨ tʰ iː˨˨ ɗ ɨə˨˩ k tʰ iː˨˨ l aː˨˨ m s aː˨˨ w}|tao không đi thi được thì làm sao
+1940|ViSSpeech|{k ə˨˨ j ɗ ɛː˨˨ n tʰ ə˨˨ n t ɨː˨˨ t iː˨˨ m t oː˨˨ j m aː˨˨ ŋ ɗ eː˨˦ n}|cây đèn thần từ tim tôi mang đến
+831|ViSSpeech|{tʰ iː˨˨ tɕ i˨˦ ɲ ɓ aː˨˨ ɗ aː˨ˀ˥ ɗ ɛː˨˨ m l aː˨˩ˀ j k aː˨˦ j k iə˨˩˨ w ɓ ə˦˥ t ʔ oː˨˩˨ n ɗ ɔː˨˦}|thì chính bà đã đem lại cái kiểu bất ổn đó
+640|ViSSpeech|{t iː˨˨ m k iə˨˦ m tʰ ə˨˨ j z ɔː˨˩˨ j ɲ ə˦˥ t ɗ eː˨˩˨ ɗ eː˨˦ n s ɛː˨˨ m}|tìm kiếm thầy giỏi nhất để đến xem
+3643|ViSSpeech|{ʔ ɛː˨˨ m v aː˨˨ m ə˨˦ j k oː˨˨ ŋ ɨə˨˨ j ɲ aː˨˨ k uə˨˩˨ tʰ aː˨˩˨ w ŋ oː˨˨ j s u˨˨ ŋm k w a˨˨ ɲ}|em và mấy cô người nhà của thảo ngồi xung quanh
+889|ViSSpeech|{l aː˨˩ˀ j h əː˨˩ p ɲ a˨˨ w ɲ ɨː˨˨ v ə˨˩ˀ j}|lại hợp nhau như vậy
+2372|ViSSpeech|{z aː˨˨ j ɗ w aː˨˩ˀ n x aː˨˦ ŋ tɕ iə˨˦ n tɕ o˨˦ ŋm f aː˦˥ p}|giai đoạn kháng chiến chống pháp
+3980|ViSSpeech|{k o˨˨ ŋm ʔ aː˨˨ n v aː˨˨ k a˨˩˨ ɲ s aː˦˥ t z aː˨˨ w tʰ o˨˨ ŋm tʰ iː˨˨ l ə˨˩ p ɓ iə˨˨ n ɓ aː˨˩˨ n}|công an và cảnh sát giao thông thì lập biên bản
+4956|ViSSpeech|{m oː˨˩ t v ə˨˨ ŋ tɕ a˨˨ ŋ tɕ ɨə˨˨ tɕ ɔː˨˨ n}|một vầng trăng chưa tròn
+3061|ViSSpeech|{m ɔ˨˨ ŋm ʔ a˨˨ ɲ tɕ iː˨˩ˀ h a˨ˀ˥ j z uː˦˥ p tɕ u˨˦ ŋm t oː˨˨ j}|mong anh chị hãy giúp chúng tôi
+4582|ViSSpeech|{z oː˨˨ j t ɨː˨˨ z w iː˨˨ l aː˨˩ˀ j l ə˨˨ n h oː˨˨ j t uə˨˨ n tɕ a˨˩˨ j}|rồi tư duy lại lần hồi tuôn chảy
+3164|ViSSpeech|{ŋ iː˨˩˨ m oː˨˩ t l aː˦˥ t h aː˨˨ l iə˨˨ n ʔ oː˨˩˨ l eː˨˨ n}|nghỉ một lát hà liền ổ lên
+4432|ViSSpeech|{tɕ ɨə˨˨ x ɔː˨˩˨ j v ɔ˨˨ ŋm ɗ aː˨ˀ˥ k ɔ˨˨ ŋm ɗ uə˨˨ j}|chưa khỏi vòng đã cong đuôi
+4830|ViSSpeech|{ɣ ɛː˨˨ n}|ghen
+4851|ViSSpeech|{tʰ aː˨˩˨ w k oː˨˦ h eː˦˥ t s ɨ˦˥ k ɗ aː˨˩ p v aː˨˨ w ŋ ɨə˨˨ j k uə˨˩˨ ʔ ɛː˨˨ m ɗ eː˨˩˨ z aː˨˨ ŋ w aː˨˨ j}|thảo cố hết sức đạp vào người của em để ra ngoài
+3610|ViSSpeech|{k oː˨˨ tɕ uː˨˦ tɕ ɨə˨˨ ɓ aː˨˨ w z əː˨˨ m əː˨˨ tʰ ə˨˦ j k aː˨˩˨}|cô chú chưa bao giờ mơ thấy cả
+5869|ViSSpeech|{tɕ eː˦˥ t ʔ iə˨˩˨ w h w a˨˩ k l aː˨˨ tɕ eː˦˥ t ɓ ə˦˥ t ɗ a˦˥ k k iː˨˨ t ɨː˨˩˨}|Chết yểu hoặc là chết bất đắc kỳ tử
+4604|ViSSpeech|{ʔ ɛː˨˨ m l iə˨˨ n ɣ ɔː˨˩ˀ j t ɔː˨˨}|em liền gọi to
+3330|ViSSpeech|{tʰ uː˨˨ v eː˨˨ tɕ ɔː˨˨ k oː˨˨ x o˨˨ ŋm ʔ iː˦˥ t t iə˨˨ n ɓ aː˨˩ k m oː˨˦ j k w aː˨˨ n h eː˨˩ˀ t oː˦˥ t}|thu về cho cô không ít tiền bạc mối quan hệ tốt
+4424|ViSSpeech|{k oː˨˨ ʔ iə˨˨ n t ə˨˨ m}|cô yên tâm
+4045|ViSSpeech|{s i˨˨ ɲ s i˨˨ ɲ ʔ ə˨˦ m ʔ aː˦˥ p}|xinh xinh ấm áp
+824|ViSSpeech|{ɲ ɨ˨˨ ŋ n ɔː˨˦ j t iː˨˨ n tʰ iː˨˨ m i˨˨ ɲ l aː˨˩ˀ j tɕ ɨə˨˨ ɣ a˨˩ p ɓ aː˨˨ w z əː˨˨}|nhưng nói tin thì mình lại chưa gặp bao giờ
+1617|ViSSpeech|{s aː˨˨ w tʰ i˦˥ c ɲ ə˨˩ p l aː˨˨ ɲ ə˨˩ p v aː˨˨ w ɗ ɨə˨˩ k}|sao thích nhập là nhập vào được
+3137|ViSSpeech|{ɲ ɨ˨ˀ˥ ŋ tɕ iə˦˥ k l aː˨˦ tɕ uː˦˥ t s uə˨˦ ŋ ɗ əː˨˨ j tʰ ə˨˩ t t oː˨˩ˀ j}|những chiếc lá trút xuống đời thật tội
+4468|ViSSpeech|{t iə˨˦ ŋ h aː˨˦ n v aː˨˨ t iə˨˦ ŋ f aː˦˥ p}|tiếng hán và tiếng pháp
+2399|ViSSpeech|{v aː˨˨ ɗ eː˨˨ m n a˨˨ j spn n eː˨˦ n tʰ a˦˥ p s aː˨˦ ŋ l eː˨˨ n z oː˨˨ j}|và đêm nay sp sp sp  nến thắp sáng lên rồi
+5003|ViSSpeech|{z ɔ˨˩ˀ ŋm k ɔː˨˨ n f aː˨˨ l ə˨ˀ˥ n t iə˨˦ ŋ ɗ iə˨˩ˀ f ɨə˨˨ ŋ}|Giọng còn pha lẫn tiếng địa phương
+1566|ViSSpeech|{tʰ iː˨˨ tɕ u˨˦ ŋm t oː˨˨ j f aː˨˩˨ j l aː˨˨ m ɲ ɨː˨˨ v ə˨˩ˀ j ɗ eː˨˦ n ɓ aː˨˨ w z əː˨˨}|thì chúng tôi phải làm như vậy đến bao giờ
+1067|ViSSpeech|{h aː˨˨ j k w ə˨˨ n x oː˨˦ n n a˨˨ j}|hai quân khốn này
+1036|ViSSpeech|{tɕ ɔː˨˦ ɣ ə˨˨ j h oː˨˩˨ m a˨˩ t ŋ ɨə˨˨ j n uə˨˨ j spn ŋ ɨə˨˨ j tɕ eː˨˨ n ɗ eː˨˩˨ ŋ ɨə˨˨ j z ɨə˨˦ j ɗ ɔː˨˦ j x oː˨˩˨}|chó gầy hổ mặt người nuôi sp sp sp  người trên để người dưới đói khổ
+5392|ViSSpeech|{m oː˨˩ t t a˨˨ j ɓ iː˨˩ˀ ɣ a˨ˀ˥ j f aː˨˩˨ j ɓ ɔː˨˦ ɓ oː˨˩ t}|một tay bị gãy phải bó bột
+5909|ViSSpeech|{t aː˨˨ tʰ ə˨˦ j k ɔː˨˦ ɲ ɨ˨ˀ˥ ŋ ŋ ɨə˨˨ j m a˨˩ k ɗ oː˨˨ t ə˨˨ j}|Ta thấy có những người mặc đồ tây
+1179|ViSSpeech|{m a˨˨ j ɗ ɨ˨˨ ŋ k ɔː˨˦ ŋ ɛː˨˨ m ə˨˦ j k aː˨˦ j ɗ aː˨˨ m t iə˨˦ w ʔ əː˨˩˨ tɕ eː˨˨ n m aː˨˩ˀ ŋ}|mày đừng có nghe mấy cái đàm tiếu ở trên mạng
+3904|ViSSpeech|{tʰ iː˨˨ tɕ a˨˦ w tʰ aː˨˩˨ w ɗ aː˨ˀ˥ f aː˨˦ k ɔː˨˨ n k w iː˨˩˨ h w a˨˩ k l aː˨˨ m tɕ aː˨˦ j l aː˨˩ˀ j k uə˨˩˨ k ɔː˨˨ n k w iː˨˩˨}|thì cháu thảo đã phá con quỷ hoặc làm trái lại của con quỷ
+2829|ViSSpeech|{tɕ uə˨˦ ɓ aː˨˨ ŋ oː˨˨ j}|chúa ba ngôi
+5283|ViSSpeech|{z ɛː˦˥ t ɗ aː˨ˀ˥ ŋ ɔː˨˩ t v aː˨˨ w z aː˨˨}|Rét đã ngọt vào da
+3425|ViSSpeech|{z əː˨˨ tʰ a˨˨ ɲ k ɔː˨˨ n m aː˨˨ z aː˨˩ˀ j ɗ eː˨˦ n ɲ aː˨˨ k u˨ˀ˥ ŋm x o˨˨ ŋm tʰ eː˨˩˨ v eː˨˨}|giờ thành con ma dại đến nhà cũng không thể về
+3020|ViSSpeech|{m ɛː˨˩ˀ k uə˨˩˨ f ɨə˨˨ ŋ z əː˨˨ n z əː˨˦ n n ɨə˦˥ k m a˦˥ t}|mẹ của phương dơn dớn nước mắt
+1672|ViSSpeech|{f ɨə˨˨ ŋ tɕ a˦˥ k tɕ a˨˦ n ɗ aː˨ˀ˥ ɲ iː˨˨ n tʰ ə˨˦ j ɗ iə˨˨ w z iː˨˨ ɗ ɔː˨˦ x o˨˨ ŋm ɓ i˨˨ ɲ tʰ ɨə˨˨ ŋ}|phương chắc chắn đã nhìn thấy điều gì đó không bình thường
+1390|ViSSpeech|{v eː˨˨ v iə˨˩ t n aː˨˨ m tʰ a˨˨ j ɗ oː˨˩˨ j x o˨˨ ŋm x iː˨˦}|về việt nam thay đổi không khí
+5589|ViSSpeech|{f aː˨˩˨ j k uə˨˩˨ m oː˨˩ t m i˨˨ ɲ m i˨˨ ɲ}|Phải của một mình mình
+3963|ViSSpeech|{h aː˨˨ n iː˨˨ l a˨˩ˀ ŋ ŋ ɨə˨˨ j}|hà ni lặng người
+1381|ViSSpeech|{ʔ ɛː˨˨ m l iə˨˨ n n ɔː˨˦ j}|em liền nói
+3251|ViSSpeech|{n eː˨˨ n ɗ o˨˩ˀ ŋm v iə˨˨ n ʔ ɛː˨˨ m z ə˦˥ t ɲ iə˨˨ w}|nền động viên em rất nhiều
+1642|ViSSpeech|{ɗ u˨˦ ŋm ɲ ɨː˨˨ ɲ ɨ˨ˀ˥ ŋ z iː˨˨ m aː˨˨ ʔ o˨˨ ŋm tʰ ə˨˨ j m ɔː˨˨ ŋ ɨə˨˨ j tʰ aː˨˦ j ɗ aː˨ˀ˥ t ɨ˨˨ ŋ n ɔː˨˦ j}|đúng như những gì mà ông thầy mo người thái đã từng nói
+5005|ViSSpeech|{ʔ ɛː˨˨ m v ə˨ˀ˥ n k ɔː˨˨ n s o˨˦ ŋm z ɨə˨ˀ˥ m oː˨˩ t tɕ aː˨˦ j t iː˨˨ m}|Em vẫn còn sống giữa một trái tim sp sp sp sp 
+2186|ViSSpeech|{ʔ əː˨˩˨ ɓ eː˨˨ n k a˨˩ˀ ɲ n ɨə˨ˀ˥}|ở bên cạnh nữa
+1061|ViSSpeech|{k ɔː˨˨ n h aː˨˩ˀ tʰ iː˨˨ ɗ ɨə˨˩ k ŋ ɨə˨˨ j t aː˨˨ l oː˨˨ j t ɨː˨˨ ɣ ə˨˨ m s ɛː˨˨}|còn hạ thì được người ta lôi từ gầm xe
+2729|ViSSpeech|{k ɔː˨˦ x iː˨˨ n aː˨˨ w n ɔː˨˦ tʰ ɛː˨˨ w tʰ ə˨˩ t}|có khi nào nó theo thật
+5198|ViSSpeech|{n eː˨˨ n k oː˨˨ ɣ ə˨˩ t ɗ ə˨˨ w}|Nên cô gật đầu
+4380|ViSSpeech|{ɗ aː˨ˀ˥ ɓ aː˨˨ w m uə˨˨ z ɔː˨˦ ɓ aː˨ˀ˥ w}|đã bao mùa gió bão
+1908|ViSSpeech|{m aː˨˨ k ɔː˨˦ f aː˨˩˨ j spn l aː˨˨ k ɔː˨˦ h aː˨˨ n iː˨˨ x o˨˨ ŋm}|mà có phải sp sp sp  là có hà ni không
+1011|ViSSpeech|{m oː˨˩ t z ɔ˨˨ ŋm tɕ ɛː˨˩˨ k ɔː˨˨ n v aː˨˨ ŋ l eː˨˨ n ʔ əː˨˩˨ tɕ ɔ˨˨ ŋm ɗ ə˨˨ w k uə˨˩˨ tɕ i˨˨ ɲ}|một dòng trẻ con vang lên ở trong đầu của trinh
+511|ViSSpeech|{ɓ a˨˨ ŋ v iə˨˩ k k ɔː˨˨ n ɓ ɛː˨˦ f aː˨˩˨ j ɗ oː˨˩˨ j l aː˨˩ˀ j l i˨˨ ɲ h oː˨˨ n l aː˨˨ m t a˨˨ j s aː˨˨ j tɕ ɔː˨˨ n ɔː˨˦}|bằng việc con bé phải đổi lại linh hồn làm tay sai cho nó
+4713|ViSSpeech|{ɲ ɨː˨˨ m ɛː˨˩ˀ tɕ u˨˦ ŋm t aː˨˨}|như mẹ chúng ta
+1442|ViSSpeech|{m oː˨ˀ˥ j m i˨˨ ɲ ɓ aː˨˨ ʔ ə˨˦ j k ɨː˨˦ l u˨˩ kp ɗ u˨˩ kp x o˨˨ ŋm k ɔː˨˦ ŋ uː˨˩˨}|mỗi mình bà ấy cứ lục đục không có ngủ
+908|ViSSpeech|{ʔ a˨˨ ɲ tɕ iː˨˩ˀ k aː˨˨ w k aː˨˨ w}|anh chị cào cào
+877|ViSSpeech|{ɲ ɨ˨˨ ŋ k ɔː˨˦ m oː˨˩ t tʰ ɨː˨˦ ʔ a˨˦ ɲ s aː˨˦ ŋ tɕ a˨˦ ŋ ɗ aː˨˨ ŋ f aː˦˥ t z aː˨˨ l u˦˥ kp m əː˨˨ l u˦˥ kp t a˦˥ t}|nhưng có một thứ ánh sáng trắng đang phát ra lúc mờ lúc tắt
+4612|ViSSpeech|{ʔ aː˨˨ j ŋ ɛː˨˨ s ɔ˨˨ ŋm k u˨ˀ˥ ŋm f aː˨˩˨ j ɗ eː˨˨ w h oː˨˨ h əː˨˩˨ j}|ai nghe xong cũng phải đều hồ hởi
+589|ViSSpeech|{s o˨˨ ŋm k aː˨˩ˀ n ɗ aː˨˦ m ɔː˨˨ n}|sông cạn đá mòn
+489|ViSSpeech|{k ɔː˨˦ h aː˨˨ j h aː˨˨ ŋ k ə˨˨ j}|có hai hang cây
+2274|ViSSpeech|{m ɛː˨˩ˀ ʔ ɛː˨˨ m l aː˨˨ m v iə˨˩ k}|mẹ em làm việc
+3632|ViSSpeech|{tɕ w iə˨˩ˀ n n a˨˨ j l aː˨˨ s aː˨˨ w}|chuyện này là sao
+1482|ViSSpeech|{tʰ a˨˨ ɲ ʔ əː˨˨ j m a˨˨ w z ə˨˩ˀ j ɗ iː˨˨}|thanh ơi mau dậy đi
+2366|ViSSpeech|{tɕ əː˨˨ j ʔ əː˨˨ j ŋ ɨə˨˨ j ʔ ə˨˦ j k ɔː˨˦ ɓ uə˨˨ n x o˨˨ ŋm}|trời ơi người ấy có buồn không
+2285|ViSSpeech|{ŋ ɛː˨˨ ɓ aː˨˨ ʔ ə˨˦ j n ɔː˨˦ j m aː˨˨ k aː˨˩˨ ɲ aː˨˨ ʔ ɛː˨˨ m ɗ eː˨˨ w s əː˨˩ˀ h aː˨ˀ˥ j}|nghe bà ấy nói mà cả nhà em đều sợ hãi
+1633|ViSSpeech|{n eː˨˨ n l aː˨˨ k ɔː˨˨ n ɓ ɛː˨˦ x o˨˨ ŋm l eː˨˨ n ɗ ɨə˨˩ k}|nên là con bé không lên được
+493|ViSSpeech|{tʰ oː˨˩˨ j tʰ o˦˥ kp v aː˨˨ w ɓ eː˨˨ n tɕ ɔ˨˨ ŋm l a˨˩ˀ ɲ k aː˨˩˨ s o˨˦ ŋm l ɨ˨˨ ŋ}|thổi thốc vào bên trong lạnh cả sống lưng
+1739|ViSSpeech|{n ɔː˨˦ j tɕ w iə˨˩ˀ n v uː˨˨ j ɗ uə˨˨ z oː˨˩ˀ n z aː˨˨ ŋ}|nói chuyện vui đùa rộn ràng
+3783|ViSSpeech|{l əː˨˨ j l ɛː˨ˀ˥ z iː˨˩ˀ w z aː˨˨ ŋ}|lời lẽ dịu dàng
+2518|ViSSpeech|{ɓ aː˨˨ n ɗ ə˨˨ w tɕ i˨˨ ɲ x o˨˨ ŋm ɗ i˨˩ˀ ɲ n ɔː˨˦ j}|ban đầu trinh không định nói
+1466|ViSSpeech|{ŋ ɛː˨˨ ɗ ɔ˨˩ kp tɕ w iə˨˩ˀ n h ə˨˨ n h a˨˩ˀ ɲ z əː˨˦ j tʰ iə˨˩ˀ w}|nghe đọc truyện hân hạnh giới thiệu
+2333|ViSSpeech|{ɲ ɨ˨˨ ŋ k ɔː˨˨ n tɕ iː˨˩˨ x ɔ˦˥ kp}|nhưng con chỉ khóc
+2500|ViSSpeech|{t iː˨˨ m ɓ uə˨˨ n x o˨˨ ŋm tɕ iː˨˩ˀ w ɲ aː˨˩˨ tʰ əː˨˨}|tim buồn không chịu nhả thơ
+5862|ViSSpeech|{m a˨˨ j m a˨˦ n tʰ a˨˨ j k ɔː˨˨ n ɓ ɛː˨˦ v ə˨ˀ˥ n ɣ ɨə˨˩ˀ ŋ z ə˨˩ˀ j ɲ ɨ˨˨ ŋ m aː˨˨ l iə˨˩ t ɗ oː˨˨ j tɕ ə˨˨ n}|may mắn thay con bé vẫn gượng dậy nhưng mà liệt đôi chân
+208|ViSSpeech|{z oː˨˨ j h əː˨˨ n m oː˨˩ t z əː˨˨ ɗ o˨˨ ŋm h oː˨˨ tɕ oː˨˨ j k w aː˨˨}|rồi hơn một giờ đồng hồ trôi qua
+4937|ViSSpeech|{k a˨˦ ɲ k ɨə˨˩˨ ɗ ɨə˨˩ k ɗ ɔ˨˦ ŋm k iː˨˦ n l aː˨˩ˀ j}|cánh cửa được đóng kín lại
+1065|ViSSpeech|{ɗ ɨ˨˨ ŋ ɣ ɔː˨˩ˀ j ɲ aː˨˨ spn tɕ ɔː˨˨ ɲ ɛː˨˩ˀ ɲ aː˨˨ ŋ m ɔ˨˨ ŋm ɲ əː˨˦}|đừng gọi nha sp sp sp  cho nhẹ nhàng mong nhớ
+3199|ViSSpeech|{n uə˨˨ j k aː˨˨ ŋ l ə˨˨ w tʰ iː˨˨ z ɨə˨ˀ˥ k uː˨˨ m aː˨˨ n tʰ ɔ˨˨ ŋm v aː˨˨ tɕ uː˨˩˨ ɲ ə˨˨ n}|nuôi càng lâu thì giữa kumanthong và chủ nhân
+5422|ViSSpeech|{s ɨː˨˩ˀ tʰ ə˨˩ t m ə˦˥ t l ɔ˨˨ ŋm}|Sự thật mất lòng
+550|ViSSpeech|{ʔ ɛː˨˨ m t i˨˦ ɲ tɕ a˨˩ˀ j s uə˨˦ ŋ z ɨə˨˨ ŋ z aː˨˨ ŋ w aː˨˨ j s ɛː˨˨ m m ɛː˨˩ˀ ɗ iː˨˨ ɗ ə˨˨ w}|em tính chạy xuống giường ra ngoài xem mẹ đi đâu
+3263|ViSSpeech|{ʔ aː˨˨ j ɗ aː˨ˀ˥ tɕ a˨˨ m k ɔː˨˨ n}|ai đã chăm con
+160|ViSSpeech|{ɗ ɨə˨˩ k}|được
+1996|ViSSpeech|{ɓ a˦˥ t ɗ ə˨˨ w k eː˨˩˨ t ɨː˨˨ ŋ a˨˨ j h oː˨˨ m ɗ ɔː˨˦}|bắt đầu kể từ ngày hôm đó
+5547|ViSSpeech|{k oː˨˨ h aː˨˨ n iː˨˨}|Cô Hà Ni
+1371|ViSSpeech|{ʔ a˨˨ ɲ v ɨə˨˨ tɕ əː˨˩ t ŋ ɛː˨˨ v a˨˨ ŋ v a˨˩˨ ŋ ɓ eː˨˨ n t aː˨˨ j k aː˨˦ j tʰ ɨː˨˦ z iː˨˨ ɗ ɔː˨˦ f aː˦˥ t z aː˨˨}|anh vừa chợt nghe văng vẳng bên tai cái thứ gì đó phát ra
+1560|ViSSpeech|{tɕ aː˨˨ tɕ u˨˨ ŋm x o˨˨ ŋm ʔ aː˨˨ j x ɔ˦˥ kp spn k uə˨˩˨ tɕ u˨˨ ŋm x o˨˨ ŋm ʔ aː˨˨ j tʰ ə˨˦ j tɕ a˦˥ c ɲ iə˨˩ˀ m z ɨː˨ˀ˥ z iː˨˨ n}|cha chung không ai khóc sp sp sp  của chung không ai thấy trách nhiệm giữ gìn
+5811|ViSSpeech|{ɲ ɨ˨ˀ˥ ŋ z ɔː˨˩ t m ɨə˨˨ n a˨˩ˀ ŋ h aː˨˩ t z əː˨˨ j t iː˨˦ t a˦˥ c}|Những giọt mưa nặng hạt rơi tý tách
+3412|ViSSpeech|{ɓ aː˨˨ j tʰ əː˨˨ h a˨˨ j ɲ ə˦˥ t m ɔː˨˩ˀ j tʰ əː˨˨ j ɗ aː˨˩ˀ j}|bài thơ hay nhất mọi thời đại
+3167|ViSSpeech|{tʰ ɛː˨˨ w ɲ ɨː˨˨ l əː˨˨ j k uə˨˩˨ s ə˨˨ m tɕ aː˨˨ j f iə˨˨ n z i˨˩ c l aː˨˩ˀ j}|theo như lời của sâm trai phiên dịch lại
+4228|ViSSpeech|{ɓ aː˨˨ ɓ ɔː˨˦ j l iə˨˨ n z aː˨˩˨ j tʰ i˦˥ c}|bà bói liền giải thích
+3966|ViSSpeech|{k ɔː˨˨ n m ɛː˨˩ˀ n ɔː˨˦ j l aː˨˨ v eː˨˨ ɲ aː˨˨ l ə˨˦ j tʰ eː˨˨ m ɗ oː˨˨ z oː˨˨ j s uə˨˦ ŋ ɓ e˨˩ˀ ɲ v iə˨˩ˀ n}|còn mẹ nói là về nhà lấy thêm đồ rồi xuống bệnh viện
+1100|ViSSpeech|{ɓ əː˨˩˨ j v iː˨˨ t aː˨˨ w tɕ i˨˦ ɲ l aː˨˨ m i˨˨ ɲ tɕ ɨ˨˦ ŋ z ɔː˨ˀ˥ z aː˨˨ ŋ ɲ ə˦˥ t v eː˨˨ k uː˨˨ m aː˨˨ n tʰ ɔ˨˨ ŋm}|bởi vì tao chính là minh chứng rõ ràng nhất về kumanthong
+477|ViSSpeech|{s iː˨˨ n ɲ ə˨˩ˀ n l əː˨˨ j k ɔː˨˨ n}|xin nhận lời con
+5222|ViSSpeech|{tʰ əː˨˨ j k iː˨˨ ʔ əː˨˩˨ tʰ aː˨˦ j l aː˨˨ n}|Thời kỳ ở Thái Lan
+5305|ViSSpeech|{k w iː˦˥ t l aː˨˨ m k aː˨˨ m tɕ iː˨˩ˀ w}|Quýt làm cam chịu
+5211|ViSSpeech|{ʔ iə˨˨ w}|Yêu
+3075|ViSSpeech|{m uə˨˨ tʰ uː˨˨ v eː˨˨ ŋ aː˨˨ ŋ f oː˨˦}|mùa thu về ngang phố
+5383|ViSSpeech|{h a˨˦ n s w ə˦˥ t h iə˨˩ˀ n ʔ əː˨˩˨ ɣ o˦˥ kp k ə˨˨ j ɣ ɔː˨˩ˀ j ʔ aː˨˨ h oː˨˨ j}|Hắn xuất hiện ở gốc cây gọi a hồi
+2406|ViSSpeech|{t ə˦˥ k ɗ ə˦˥ t t ə˦˥ k v aː˨˨ ŋ}|tấc đất tấc vàng
+3759|ViSSpeech|{z əː˨˨ tɕ a˨˩˨ ŋ ɓ iə˦˥ t f aː˨˩˨ j l aː˨˨ m s aː˨˨ w k aː˨˩˨}|giờ chẳng biết phải làm sao cả
+713|ViSSpeech|{m ɛː˨˩ˀ tɕ o˨˨ ŋm t ɨ˨˨ ŋ ɓ ɨə˦˥ k}|mẹ trông từng bước
+725|ViSSpeech|{h a˨˨ j t i˨˦ ɲ k o˨˨ ŋm l aː˨˨ w}|hay tính công lao
+4117|ViSSpeech|{ŋ əː˨˨ j ŋ əː˨˨ j m a˦˥ t m ɛː˨˩ˀ}|ngời ngời mắt mẹ
+5794|ViSSpeech|{t w iə˨˨ n tɕ w iə˨˨ n m eː˨˨ t iː˨˦ n z iː˨˩ˀ ɗ w aː˨˨ n}|tuyên truyền mê tín dị đoan
+5294|ViSSpeech|{f ə˨˨ n n aː˨˨ w tɕ ɨə˨˨ l aː˨˨ m tʰ iː˨˨ ɓ oː˨˨ j m a˨˨ w v aː˨˨ ŋ ɲ ɛː˨˦}|phần nào chưa làm thì bôi màu vàng nhé
+924|ViSSpeech|{ŋ ɨə˨˨ j ɲ aː˨˨ t aː˨˨ w n ɔː˨˦ j tʰ eː˨˦ tɕ ɔː˨˨ n eː˨˨ n l aː˨˨ l ə˨˩ p m iə˨˦ w ɗ eː˨˩˨ tʰ əː˨˨}|người nhà tao nói thế cho nên là lập miếu để thờ
+421|ViSSpeech|{ʔ uə˨˩˨ ŋ k o˨˨ ŋm t aː˨˨ w k ɔː˨˨ j m a˨˨ j l aː˨˨ ɓ aː˨˩ˀ n tʰ ə˨˨ n}|uổng công tao coi mày là bạn thân
+68|ViSSpeech|{h a˨ˀ˥ j ʔ əː˨˩˨ l aː˨˩ˀ j l ə˨˩ p k aː˨˦ j ɓ aː˨˩˨ n m aː˨˨ l ə˨˦ j tɕ oː˨ˀ˥ s i˨˨ ɲ s o˨˦ ŋm}|hãy ở lại lập cái bản mà lấy chỗ sinh sống
+2377|ViSSpeech|{h ɨə˨˨ ŋ m ɛː˨˨ n s a˨˨ j m aː˨˨ n m aː˦˥ k k uə˨˩˨ m uə˨˨ tʰ uː˨˨}|hương men say man mác của mùa thu
+3789|ViSSpeech|{m ɛː˨˩ˀ ʔ ɛː˨˨ m l iə˨˨ n ɣ əː˨˩ˀ j ʔ iː˨˦}|mẹ em liền gợi ý
+5230|ViSSpeech|{tʰ a˨˨ ŋ tɕ əː˨˨ j ɓ ə˨˩˨ n}|thằng chơi bẩn
+4993|ViSSpeech|{ɓ a˨˦ ɲ k ɛː˨˩ˀ w m əː˨˦ j}|bánh kẹo mới
+4503|ViSSpeech|{v iː˨˨ m ə˨˦ j x iː˨˨ ʔ iə˨˨ w m aː˨˨ tɕ a˦˥ k ɗ ɨə˨˩ k ʔ iə˨˨ w}|vì mấy khi yêu mà chắc được yêu
+2141|ViSSpeech|{tʰ iː˨˨ ŋ a˨˨ j l ə˨˩ p t ɨ˦˥ k n ɔː˨˦ h ɛː˦˥ t l eː˨˨ n m oː˨˩ t k a˦˥ c ɗ ə˨˨ j k i˨˨ ɲ s əː˨˩ˀ}|thì ngay lập tức nó hét lên một cách đầy kinh sợ
+4919|ViSSpeech|{ɣ a˨˦ n ɓ ɔː˨˦ ɲ a˨˨ w v iː˨˨ m oː˨˩ t l oː˨˦ j ɗ iː˨˨ tɕ u˨˨ ŋm}|gắn bó nhau vì một lối đi chung
+879|ViSSpeech|{tɕ i˨˨ ɲ m əː˨˩˨ ɗ iə˨˩ˀ n tʰ w aː˨˩ˀ j k uə˨˩˨ m i˨˨ ɲ}|trinh mở điện thoại của mình
+4020|ViSSpeech|{z aː˨˨ j ɗ w aː˨˩ˀ n s a˨˨ w}|giai đoạn sau
+1324|ViSSpeech|{tʰ ə˨˨ j ɓ aː˨˩˨ w k ɔː˨˦ ŋ ɨə˨˨ j tɕ ɛː˨˨ m a˦˥ t spn tʰ ə˨˨ j x o˨˨ ŋm k ɔː˨˦ ɲ iː˨˨ n ɗ ɨə˨˩ k}|thầy bảo có người che mắt sp sp sp  thầy không có nhìn được
+5612|ViSSpeech|{ʔ ɛː˨˨ m tʰ iː˨˨ ɲ aː˦˥ t l a˨˦ m}|em thì nhát lắm
+520|ViSSpeech|{t aː˨˨ w v ə˨ˀ˥ n tʰ i˦˥ c m a˨˨ j}|tao vẫn thích mày
+4672|ViSSpeech|{tʰ iː˨˨ tɕ a˦˥ k tɕ a˨˦ n k ɔː˨˨ n ɣ aː˨˦ j ɲ aː˨˨ k oː˨˨ s ɛː˨ˀ˥ ɣ a˨˩ p v ə˨˩ˀ n l əː˨˦ n}|thì chắc chắn con gái nhà cô sẽ gặp vận lớn
+5004|ViSSpeech|{k ə˨˨ j k ɔː˨˩˨ t i˨˩˨ ɲ t aː˨˦ w}|Cây cỏ tỉnh táo
+4912|ViSSpeech|{ʔ ɛː˨˨ m z u˨˨ ŋm m i˨˨ ɲ z oː˨˨ j ŋ aː˨ˀ˥ v ə˨˩ t z aː˨˨ z ɨə˨˨ ŋ}|em rùng mình rồi ngã vật ra giường
+4341|ViSSpeech|{h a˨˨ j l aː˨˨ t oː˨˨ j z ɨ˨˩ˀ ŋ k aː˨˦ j ɓ aː˨˩ t tɕ ɛː˨˨ s ɨə˨˨ ŋ l eː˨˨ n}|hay là tôi dựng cái bạt che sương lên
+3496|ViSSpeech|{tɕ a˨˩˨ ŋ ɓ iə˦˥ t t ɨː˨˨ x iː˨˨ n aː˨˨ w m aː˨˨ tɕ i˨˨ ɲ tɕ iː˨˩˨ m uə˨˦ n k w ə˨˨ n l aː˨˨ k uə˨˩˨ z iə˨˨ ŋ m i˨˨ ɲ}|chẳng biết từ khi nào mà chinh chỉ muốn quân là của riêng mình
+1881|ViSSpeech|{ɓ oː˨˨ ɓ i˨˩ c ɲ a˨˨ ŋ ɲ iː˦˥ t}|bồ bịch nhăng nhít
+5098|ViSSpeech|{t oː˨˨ j l iə˨˨ n tɕ aː˨˩˨ l əː˨˨ j}|Tôi liền trả lời
+4684|ViSSpeech|{k ɨː˨˦ ɗ eː˨˦ n n ɨə˨˩˨ ɗ eː˨˨ m s a˨˨ w x iː˨˨ tɕ ɔː˨˨ k uː˨˨ m aː˨˨ n tʰ ɔ˨˨ ŋm ʔ a˨˨ n}|cứ đến nửa đêm sau khi cho kumanthong ăn
+2587|ViSSpeech|{s a˨˨ w k u˨˨ ŋm m ɛː˨˩ˀ ʔ ɛː˨˨ m tɕ oː˦˥ t l aː˨˩ˀ j}|sau cùng mẹ em chốt lại
+3940|ViSSpeech|{k ɔː˨˨ n ɓ ɛː˨˦ h w aː˨˨ ɗ ɨə˨˨ t a˨˨ j z aː˨˨ s uː˨˨ j s w aː˨˨}|còn bé hòa đưa tay ra xùy xòa
+3953|ViSSpeech|{s aː˨˨ w ʔ a˨˨ ɲ l aː˨˩ˀ j h ɔː˨˩˨ j t oː˨˨ j tɕ w iə˨˩ˀ n ɗ ɔː˨˦}|sao anh lại hỏi tôi chuyện đó
+4651|ViSSpeech|{ɓ əː˨˩˨ j ɗ oː˨˦ j v əː˨˦ j k oː˨˨}|bởi đối với cô
+1511|ViSSpeech|{ʔ o˨˦ ŋm l aː˨˨ ŋ n aː˨˨ w l aː˨˨ ŋ ɗ ə˨˦ j ɗ a˨˦ ɲ}|ống làng nào làng đấy đánh
+2433|ViSSpeech|{tɕ i˨˨ ɲ x o˨˨ ŋm tɕ aː˨˩˨ l əː˨˨ j}|chinh không trả lời
+3995|ViSSpeech|{ɗ iə˨˨ w x w aː˨˩˨ n s ɨː˨˩˨ z u˨˩ˀ ŋm}|điều khoản sử dụng
+2855|ViSSpeech|{tɕ a˨˩˨ ŋ ɓ ɨə˦˥ k tɕ ə˨˨ n n aː˨˨ w ɗ ɨə˨˩ k z ə˨ˀ˥ m l eː˨˨ n}|chẳng bước chân nào được dẫm lên
+3811|ViSSpeech|{ɗ u˨˦ ŋm ɲ ɨː˨˨ l əː˨˨ j tɕ iː˨˩ˀ ɗ aː˨ˀ˥ n ɔː˨˦ j}|đúng như lời chị đã nói
+4365|ViSSpeech|{v aː˨˨ tʰ ɨə˨˨ ŋ ɗ ɛː˨˨ m l ɔ˨˨ ŋm ʔ iə˨˨ w tʰ ɨə˨˨ ŋ k oː˨˨ tɕ uː˨˩˨ k w aː˨˦ n ɗ ə˨˨ j}|và thường đem lòng yêu thương cô chủ quán đây
+1688|ViSSpeech|{h oː˨˨ m n a˨˨ j k ɔː˨˦ tɕ w iə˨˩ˀ n z iː˨˨ m aː˨˨ ɣ ɔː˨˩ˀ j t oː˨˨ j s əː˨˦ m v ə˨˩ˀ j}|hôm nay có chuyện gì mà gọi tôi sớm vậy
+3327|ViSSpeech|{tɕ i˨˨ ɲ m əː˨˩˨ tɕ oː˦˥ t k ɨə˨˩˨ z oː˨˨ j f ɔ˨˦ ŋm ɲ ɨː˨˨ ɓ a˨˨ j s aː˨˨ ŋ f iə˨˦ f ɔ˨˨ ŋm tʰ əː˨˨}|chinh mở chốt cửa rồi phóng như bay sang phía phòng thờ
+5836|ViSSpeech|{ʔ əː˨˨ ɲ ɨ˨˨ ŋ m aː˨˨ m aː˨˨ j t aː˨˨ w ɗ iː˨˨ tɕ əː˨˨ j m aː˨˨ t aː˨˨ w l aː˨˩ˀ j x o˨˨ ŋm ɓ iə˦˥ t ɲ iː˨˩˨}|ờ nhưng mà mai tao đi chơi mà tao lại không biết nhỉ
+1308|ViSSpeech|{tɕ i˨˨ ɲ l ə˨˦ j m oː˨˩ t ɓ ɨ˦˥ k h i˨˨ ɲ k uə˨˩˨ k w ə˨˨ n z oː˨˨ j ɲ iː˨˨ n v aː˨˨ w ɗ ɔː˨˦ k ɨə˨˨ j x a˨˨ ɲ x a˦˥ c}|trình lấy một bức hình của quân rồi nhìn vào đó cười khanh khách
+2119|ViSSpeech|{t ɨə˨˩˨ ŋ ɗ eː˨˦ n ɗ ə˨˨ j ɣ a˨˩ p ɓ aː˨˩ˀ n ɓ ɛː˨˨ s ɛː˨ˀ˥ k aː˨˩˨ m tʰ ə˨˦ j tʰ w aː˨˩˨ j m aː˨˦ j m oː˨˩ t tɕ uː˦˥ t}|tưởng đến đây gặp bạn bè sẽ cảm thấy thoải mái một chút
+1077|ViSSpeech|{ɓ iː˨˩ˀ ɓ aː˨˨ tɕ iː˨˩ˀ v eː˨˨ f aː˨˩ t tʰ iː˨˨ k əː˨˨ m ɓ ɨə˨ˀ˥ ɓ aː˦˥ k ʔ aː˨˩ˀ}|bị bà chị về phạt thì cơm bữa bác ạ
+4042|ViSSpeech|{k w ə˨˨ n ɓ ɨə˦˥ k v aː˨˨ w tɕ ɔ˨˨ ŋm f ɔ˨˨ ŋm tɕ a˨˨ m s ɔ˦˥ kp m ɛː˨˩ˀ}|quân bước vào trong phòng chăm sóc mẹ
+2105|ViSSpeech|{h aː˨˨ n iː˨˨ z uː˨˨ n l ə˨˩˨ j ɓ ə˨˩˨ j}|hà ni run lẩy bẩy
+555|ViSSpeech|{tʰ u˨˨ ŋm z o˨ˀ˥ ŋm k eː˨˨ w t ɔː˨˨}|thùng rỗng kêu to
+1797|ViSSpeech|{ʔ a˨˨ ɲ m ə˦˥ t k ɔː˨˨ n z oː˨˨ j m ə˦˥ t l uə˨˨ n k aː˨˩˨ k oː˨˨ v əː˨˩ˀ h eː˦˥ t l ɔ˨˨ ŋm ʔ iə˨˨ w tʰ ɨə˨˨ ŋ}|anh mất con rồi mất luôn cả cô vợ hết lòng yêu thương
+147|ViSSpeech|{ɓ eː˨˨ n tɕ ɔ˨˨ ŋm k w aː˨˦ n k ɔː˨˦ m oː˨˩ t ŋ ɨə˨˨ j ɓ ɨə˦˥ k z aː˨˨}|bên trong quán có một người bước ra
+632|ViSSpeech|{ʔ oː˨˨ j tʰ ə˨˩ t t w iə˨˩ t v əː˨˨ j}|ôi thật tuyệt vời
+4870|ViSSpeech|{t aː˨˨ w tɕ iː˨˩˨ m uə˨˦ n ɓ aː˨˩˨ w v eː˨˩ˀ m a˨˨ j tɕ ɨː˨˦ x o˨˨ ŋm z w aː˨˩ˀ m a˨˨ j}|tao chỉ muốn bảo vệ mày chứ không dọa mày
+2170|ViSSpeech|{tʰ əː˨˨ j k iː˨˨ ʔ əː˨˩˨}|thời kỳ ở
+990|ViSSpeech|{ɗ aː˨ˀ˥ x iə˨˦ n tɕ ɔː˨˨ tɕ i˨˨ ɲ x o˨˨ ŋm tʰ eː˨˩˨ k iː˨˨ m l ɔ˨˨ ŋm}|đã khiến cho trinh không thể kìm lòng
+3971|ViSSpeech|{n eː˨˦ w ʔ ɛː˨˨ m m aː˨˨ k ɔː˨˨ n ɲ ɨː˨˨ v ə˨˩ˀ j}|nếu em mà còn như vậy
+3501|ViSSpeech|{s aː˨˨ w x o˨˨ ŋm k ə˨˨ m v aː˨˨ z ɨː˨ˀ˥ tɕ ɔː˨˨ z iə˨˨ ŋ ʔ a˨˨ ɲ}|sao không cầm và giữ cho riêng anh
+4443|ViSSpeech|{t oː˨˨ j l aː˨˨ ɓ ɔː˨˦ j z aː˨˩ˀ w tʰ oː˨˨ j spn ɓ aː˨˩˨ n l i˨ˀ˥ ɲ k u˨ˀ˥ ŋm k ɔː˨˦ h aː˨˩ˀ n}|tôi là bói dạo thôi sp sp sp  bản lĩnh cũng có hạn
+3682|ViSSpeech|{tʰ iː˨˨ ŋ ɨə˨˨ j ɗ aː˨˨ n ʔ o˨˨ ŋm n a˨˨ j l iə˨˨ n l eː˨˨ n t iə˨˦ ŋ}|thì người đàn ông này liền lên tiếng
+5229|ViSSpeech|{s a˨˨ w x iː˨˨ z əː˨˨ j x ɔː˨˩˨ j ɓ aː˨˨ n tʰ əː˨˨ k uə˨˩˨ k uː˨˨ m aː˨˨ n}|Sau khi rời khỏi bàn thờ của kuman
+3313|ViSSpeech|{ɲ ɔː˨˩ˀ n h w a˦˥ t k aː˨˨ w k aː˨˨ w v aː˨˨ w x o˨˨ ŋm tɕ u˨˨ ŋm}|nhọn hoắt cào cào vào không trung
+4757|ViSSpeech|{ɲ aː˨˨ m əː˨˦ j k uə˨˩˨ ʔ ɛː˨˨ m ʔ əː˨˩˨ tɕ ɔ˨˨ ŋm s ɔː˨˦ m}|nhà mới của em ở trong xóm
+860|ViSSpeech|{m oː˨˩ t f ɔ˨˨ ŋm x a˦˥ c ɲ aː˨˨ ɓ eː˦˥ p v aː˨˨ ɲ aː˨˨ v eː˨˩ˀ s i˨˨ ɲ}|một phòng khách nhà bếp và nhà vệ sinh
+5280|ViSSpeech|{t oː˨˨ j ɣ ə˨˨ n ɗ ə˨˨ j k ɔː˨˦ tʰ i˦˥ c m oː˨˩ t ŋ ɨə˨˨ j ɗ aː˨˨ n ʔ o˨˨ ŋm}|Tôi gần đây có thích một người đàn ông
+3959|ViSSpeech|{z a˨˨ ɲ v ɔ˨˩ˀ ŋm t iə˨˨ n t aː˨˨ j ɗ aː˨˨ m m eː˨˨ x aː˦˥ t v ɔ˨˩ˀ ŋm}|danh vọng tiền tài đam mê khát vọng
+5920|ViSSpeech|{s ɛː˨˨ h əː˨˨ j l aː˨˨ ɓ aː˨˨ tɕ uː˨˩˨ s h w p̚ k w ə˨˨ n ʔ aː˨˦ w}|Xe hơi là bà chủ shop quần áo
+774|ViSSpeech|{tɕ oː˦˥ t f ɔ˨˨ ŋm l aː˨˩ˀ j}|chốt phòng lại
+4718|ViSSpeech|{z əː˨˨ f aː˨˩˨ j ɲ iː˨˨ n m əː˨˦ j tʰ ə˨˦ j tʰ oː˨˨ j}|giờ phải nhìn mới thấy thôi
+2254|ViSSpeech|{n eː˨˦ w ɲ aː˨˨ k ɔː˨˦ f u˦˥ kp}|nếu nhà có phúc
+4863|ViSSpeech|{k oː˨˨ ʔ iə˨˨ n t ə˨˨ m}|cô yên tâm
+2660|ViSSpeech|{ŋ a˨˨ j tʰ aː˨˦ ŋ n aː˨˨ w s aː˨˨ ŋ aː˨˦ j}|ngày tháng nào xa ngái
+2351|ViSSpeech|{ɲ a˦˥ k ɗ eː˨˦ n k uː˨˨ m aː˨˨ n tʰ ɔ˨˨ ŋm}|nhắc đến kumanthong
+5786|ViSSpeech|{k ɔː˨˨ n ŋ ɛː˨˨ tɕ u˨˦ ŋm n ɔː˨˦ ɗ oː˨˨ n l aː˨˨ k aː˨˦ j tɕ eː˦˥ t k uə˨˩˨ n ɔː˨˦ ɗ aː˨˦ ŋ s əː˨˩ˀ l a˨˦ m}|Còn nghe chúng nó đồn là cái chết của nó đáng sợ lắm
+4025|ViSSpeech|{x o˨˨ ŋm m oː˨˩ t tɕ uː˦˥ t ŋ ə˨˨ n ŋ aː˨˩ˀ j}|không một chút ngần ngại
+5603|ViSSpeech|{ʔ ɛː˨˨ m tʰ eː˨˨ k ɔː˨˦ k ə˨˨ j s w aː˨˨ j n a˨˨ j l aː˨˨ m tɕ ɨ˨˦ ŋ}|Em thề có cây xoài này làm chứng
+704|ViSSpeech|{v iə˨˩ k ɲ aː˨˨ tʰ iː˨˨ ŋ aː˨˦ n spn v iə˨˩ k l aː˨˨ ŋ tʰ iː˨˨ s iə˨˨ ŋ}|việc nhà thì ngán sp sp sp  việc làng thì siêng
+3777|ViSSpeech|{v iə˨˩ k z iː˨˨ k u˨ˀ˥ ŋm k ɔː˨˦ k aː˨˦ j z aː˨˦ k uə˨˩˨ n ɔː˨˦}|việc gì cũng có cái giá của nó
+2635|ViSSpeech|{tɕ i˨˨ ɲ n a˨˨ m tɕ ɔ˨˨ ŋm s ɛː˨˨ tʰ əː˨˩˨ m a˨˩ˀ ɲ v aː˨˨ z oː˨˨ n z ə˨˩ p}|trinh nằm trong xe thở mạnh và dồn dập
+3361|ViSSpeech|{z oː˨˨ j ɓ oː˨˦ s ɛː˨ˀ˥ tɕ ɔː˨˨ tʰ eː˨˨ m t iə˨˨ n}|rồi bố sẽ cho thêm tiền
+2494|ViSSpeech|{tɕ ɔ˨˨ ŋm l ɔ˨˨ ŋm ʔ a˨˨ ɲ ŋ ɛː˨˨ m oː˨˩ t tɕ uː˦˥ t n aː˨˨ w n aː˨˨ w}|trong lòng anh nghe một chút nao nao
+5389|ViSSpeech|{z əː˨˨ tʰ a˨˨ ɲ k ɔː˨˨ n m aː˨˨ z aː˨˩ˀ j ɗ eː˨˦ n ɲ aː˨˨ k u˨ˀ˥ ŋm x o˨˨ ŋm tʰ eː˨˩˨ v eː˨˨}|giờ thành con ma dại đến nhà cũng không thể về
+3324|ViSSpeech|{tɕ iː˨˩ˀ ʔ əː˨˨ j tɕ iː˨˩ˀ ɓ iː˨˩ˀ k aː˨˩˨ m ʔ aː˨˨}|chị ơi chị bị cảm à
+5121|ViSSpeech|{k aː˦˥ k ɓ aː˨˩ˀ n ɗ iː˨˨ k u˨˨ ŋm ɲ iː˨˨ n f ɨə˨˨ ŋ m iː˨˩˨ m k ɨə˨˨ j}|Các bạn đi cùng nhìn Phương mỉm cười
+4947|ViSSpeech|{s ɛː˨ˀ˥ t oː˦˥ t tɕ ɔː˨˨ m i˨˨ ɲ}|sẽ tốt cho mình
+2769|ViSSpeech|{ʔ a˨˨ ɲ tɕ aː˨˨ ŋ ɓ a˦˥ t ɗ ə˨˨ w h oː˦˥ t h w aː˨˩˨ ŋ}|anh chàng bắt đầu hốt hoảng
+4412|ViSSpeech|{ʔ a˨˨ ɲ tɕ aː˨˨ ŋ ɓ ə˨˩ t z ə˨˩ˀ j}|anh chàng bật dậy
+734|ViSSpeech|{ɓ aː˨˨ t ə˨˨ m h w aː˨˦ tʰ a˨˨ ɲ m oː˨˩ t l aː˨˨ n s ɨə˨˨ ŋ m ɔ˨˩˨ ŋm t aː˨˨ n ɓ iə˨˦ n z ə˨˨ n v aː˨˨ w x o˨˨ ŋm tɕ u˨˨ ŋm}|bà tâm hóa thành một làn sương mỏng tan biến dần vào không trung
+1893|ViSSpeech|{tɕ ə˨˦ n tʰ ɨə˨˨ ŋ s a˨˨ w t aː˨˨ j n aː˨˩ˀ n x iə˨˦ n tɕ ɔː˨˨ ɓ e˨˩ˀ ɲ ɲ ə˨˨ n ɓ iː˨˩ˀ t oː˨˩˨ n h aː˨˩ˀ j n aː˨ˀ˥ w}|trấn thương sau tai nạn khiến cho bệnh nhân bị tổn hại não
+1110|ViSSpeech|{ɗ eː˨˩˨ tɕ ɔː˨˨ ʔ a˨˨ ɲ t əː˨˦ j s w aː˨˦ ɓ uə˨˨ n ɓ uə˨˨ n ɗ iː˨˨}|để cho anh tới xóa buồn buồn đi
+4387|ViSSpeech|{ʔ ɛː˨˨ m k uə˨˦ ŋ k uə˨˨ ŋ ŋ oː˨˨ j ɓ ə˨˩ t z ə˨˩ˀ j z oː˨˨ j ɣ ɔː˨˩ˀ j}|em cuống cuồng ngồi bật dậy rồi gọi
+4806|ViSSpeech|{tʰ iː˨˨ l iə˨˩ˀ w z a˨˨ ŋ k uə˨˩ k ɗ əː˨˨ j n a˨˨ j k oː˨˨ k ɔː˨˦ tʰ a˨˨ j ɗ oː˨˩˨ j x o˨˨ ŋm}|Thì liệu rằng cuộc đời này cô có thay đổi không
+780|ViSSpeech|{tɕ i˨˨ ɲ l u˦˥ kp n a˨˨ j z o˨˦ ŋm ɲ ɨː˨˨ m oː˨˩ t k ɔː˨˨ n m ɛː˨˨ w k aː˨˦ j t eː˨˨ n k iː˨˨ ɗ o˨˩ˀ ŋm z u˨˩ kp}|trinh lúc này giống như một con mèo cái tên kỳ động dục
+1621|ViSSpeech|{k aː˨˩˨ m ʔ əː˨˨ n ʔ a˨˨ ɲ ɗ aː˨ˀ˥ tɕ a˨˨ n tɕ əː˨˩˨ ʔ eː˨˨ m ɗ eː˨˨ m}|cảm ơn anh đã trăn trở êm đềm
+3925|ViSSpeech|{ɓ oː˨˦ ʔ ɛː˨˨ m l iə˨˨ n n ɔː˨˦ j tɕ ɛː˨˨ n v aː˨˨ w}|bố em liền nói chen vào
+1498|ViSSpeech|{t w iə˨˩˨ n t ə˨˩ p tʰ əː˨˨ h a˨˨ j}|tuyển tập thơ hay
+4982|ViSSpeech|{ʔ ɛː˨˨ m k u˨ˀ˥ ŋm x o˨˨ ŋm z ɔː˨ˀ˥ m i˨˨ ɲ ɓ a˦˥ t ɗ ə˨˨ w ŋ uː˨˩˨ t ɨː˨˨ l u˦˥ kp m ə˨˦ j z əː˨˨}|em cũng không rõ mình bắt đầu ngủ từ lúc mấy giờ
+123|ViSSpeech|{ɓ aː˦˥ k l aː˨˩ˀ j k ɨː˨˦ ɗ uə˨˨}|bác lại cứ đùa
+3082|ViSSpeech|{tɕ ɔː˨˨ m uə˨˨ tʰ uː˨˨ z əː˨˨ j tʰ w aː˨˦ ŋ ɲ ɛː˨˩ˀ k w aː˨˨ tʰ eː˨˨ m}|cho mùa thu rơi thoáng nhẹ qua thềm
+1835|ViSSpeech|{z aː˨˩ˀ ɗ iː˨˨ ʔ ɛː˨˨ m tɕ ɔː˨˨ ʔ a˨˨ ɲ v aː˨˨ w z ə˦˥ k ŋ uː˨˩˨}|dạ đi em cho anh vào giấc ngủ
+1731|ViSSpeech|{s ɛː˨ˀ˥ h əː˨˨ n v aː˨˨ s aː˨˦ ŋ l aː˨˩ˀ ŋ h əː˨˨ n}|sẽ hơn và sáng lạng hơn
+2688|ViSSpeech|{t aː˨˩ˀ m ɓ iə˨˩ t tʰ uː˨˨ spn z əː˨˨ j l eː˨˩ˀ ɗ ɔː˨˦ n ɗ o˨˨ ŋm}|tạm biệt thu sp sp sp  rơi lệ đón đông
+4164|ViSSpeech|{v ɨə˨˨ tɕ aː˨˩ˀ m v aː˨˨ w ŋ ɨə˨˨ j k oː˨˩˨ k w ə˨˨ n}|vừa chạm vào người cổ quân
+3221|ViSSpeech|{tɕ əː˨˩ t m ɨə˨˨ k aː˨˦ j ʔ aː˨˨ w}|chợt mưa cái ào
+4398|ViSSpeech|{tɕ i˨˨ ɲ n əː˨˩˨ m oː˨˩ t n uː˨˩ˀ k ɨə˨˨ j k iː˨˨ k w aː˨˦ j}|chinh nở một nụ cười kỳ quái
+3634|ViSSpeech|{z a˨˨ n z a˨˩ˀ j ɗ ɨə˨˩ k ʔ ɛː˨˨ m}|răn dạy được em
+5828|ViSSpeech|{s ɛː˨˨ m v ɔ˨˨ ŋm k uə˨˩˨ tʰ aː˨˩˨ w h əː˨˩ p ʔ aː˨˨ j tʰ iː˨˨ s ɛː˨ˀ˥ ɲ ə˨˩ p v aː˨˨ w ŋ ɨə˨˨ j ɗ ɔː˨˦}|xem vong của thảo hợp ai thì sẽ nhập vào người đó
+3968|ViSSpeech|{n a˨˨ m f uː˦˥ t z aː˨˨ j h w aː˨˨ ŋ h w aː˨˩˨ j ɗ eː˨˦ n ɗ iə˨˨ w l i˨˨ ɲ}|năm phút dài hoang hoải đến điêu linh
+2385|ViSSpeech|{tʰ w aː˨˩˨ ŋ s a˦˥ k tʰ o˨˨ ŋm l aː˨˨ n m ə˨˨ j l ɨə˦˥ t tɕ eː˨˨ n k aː˨˨ w}|thoảng sắc thồng làn mây lướt trên cao
+3294|ViSSpeech|{k ə˨˨ j k oː˨˦ j s a˨˨ ɲ t ɨə˨˨ j}|cây cối xanh tươi
+2432|ViSSpeech|{ɓ aː˨˨ t ə˨˨ m v ɨə˨˨ h ɔː˨˨ v ɨə˨˨ ɲ iː˨˨ n k ɔː˨˨ n tʰ eː˨˨ w tʰ aː˨˨ w n ɔː˨˦ j}|bà tâm vừa ho vừa nhìn con thều thào nói
+2380|ViSSpeech|{tʰ eː˨˦ ɓ ə˨˨ j z əː˨˨ t oː˨˨ j k ə˨˨ n f aː˨˩˨ j l aː˨˨ m z iː˨˨}|thế bây giờ tôi cần phải làm gì
+379|ViSSpeech|{t eː˨˨ n ɣ ɔː˨˩ˀ j spn ɓ iː˨˦ z a˨˨ ɲ spn ɓ uː˦˥ t z a˨˨ ɲ}|tên gọi sp sp sp  bí danh sp sp sp  bút danh
+5237|ViSSpeech|{ɓ əː˨˨ j z aː˨˨ t əː˨˦ j ɓ iə˨˩˨ n}|Bơi ra tới biển
+5346|ViSSpeech|{k ɔː˨˦ m aː˨˨ ɣ ɛː˨˦ tʰ iː˨˨ k ɔː˨˦}|Có ma ghé thì có
+35|ViSSpeech|{t aː˨˨ w m uə˨˦ n ɗ iː˨˨ v əː˨˦ j m a˨˨ j}|tao muốn đi với mày
+3439|ViSSpeech|{v eː˨˨ n ɨə˦˥ k tɕ əː˨˨ j tɕ ɨə˨˨ ɗ ɨə˨˩ k ɓ aː˨˨ w l ə˨˨ w l aː˨˩ˀ j ɓ iː˨˩ˀ t aː˨˨ j n aː˨˩ˀ n}|về nước chơi chưa được bao lâu lại bị tai nạn
+17|ViSSpeech|{x o˨˨ ŋm spn t aː˨˨ w x o˨˨ ŋm m uə˨˦ n}|không sp sp sp  tao không muốn
+3440|ViSSpeech|{ɲ ɨ˨˨ ŋ v ɨə˨˨ k uə˨˦ j ŋ ɨə˨˨ j tʰ iː˨˨ ŋ aː˨ˀ˥ s a˦˥ p l uə˨˨ n s uə˨˦ ŋ s aː˨˨ n ɲ aː˨˨}|nhưng vừa cuối người thì ngã sắp luôn xuống sàn nhà
+2604|ViSSpeech|{tɕ iː˨˩˨ k ɔː˨˦ t aː˨˨ v ə˨ˀ˥ n k a˦˥ c s aː˨˨ m aː˨˩˨ j m iə˦˥ t}|chỉ có ta vẫn cách xa mải miết
+2593|ViSSpeech|{m ɛː˨˩ˀ tʰ aː˨˩˨ w tʰ w aː˨˩ t ɗ ə˨˨ w ɲ iː˨˨ n tʰ ə˨˦ j m ə˨˦ j ŋ ɨə˨˨ j tɕ u˨˦ ŋm ʔ ɛː˨˨ m tʰ iː˨˨ h əː˨˨ j ŋ aː˨˩ k ɲ iə˨˨ n}|mẹ thảo thoạt đầu nhìn thấy mấy người chúng em thì hơi ngạc nhiên
+1394|ViSSpeech|{n a˨˨ j}|này
+1748|ViSSpeech|{v əː˨˦ j k aː˨˦ j tɕ eː˦˥ t k uə˨˩˨ ɲ iː˨˨}|với cái chết của nhi
+4135|ViSSpeech|{m oː˨˩ t ɓ ɛː˨˦ k uː˨˨ m aː˨˨ n tʰ ə˨˩ t s ɨː˨˩ˀ l aː˨˨ k ə˨˨ n ɲ iə˨˨ w h əː˨˨ n v ə˨˩ˀ j ɗ ə˨˦ j}|một bé kuman thật sự là cần nhiều hơn vậy đấy
+4013|ViSSpeech|{ɗ ɔ˨˦ ŋm k ɨə˨˩˨ ɲ aː˨˨ l aː˨˩ˀ j tɕ i˨˨ ɲ z əː˨˨ j ɗ iː˨˨}|đóng cửa nhà lại trinh rời đi
+5536|ViSSpeech|{ɓ uə˨˨ n k w aː˨˦ h oː˨˨ m n a˨˨ j s ɛː˨˨ m t iə˨˩˨ w tʰ w iə˦˥ t}|Buồn quá hôm nay xem tiểu thuyết
+843|ViSSpeech|{f aː˨˩˨ j k uə˨˩˨ m oː˨˩ t m i˨˨ ɲ m i˨˨ ɲ}|phải của một mình mình
+1589|ViSSpeech|{l aː˨˨ m ʔ əː˨˨ n tɕ ɔː˨˨ k ɔː˨˨ n ɗ iː˨˨ l eː˨˨ n}|làm ơn cho con đi lên
+2417|ViSSpeech|{t ə˨˨ n t aː˨˩˨ w v iː˨˨ k ɔː˨˨ n}|tần tảo vì con
+5669|ViSSpeech|{ɓ oː˨˦ k uə˨˩˨ ɓ aː˨˩ˀ n l iə˨˨ n h ɔː˨˩˨ j ʔ ɛː˨˨ m}|bố của bạn liền hỏi em
+1306|ViSSpeech|{l aː˨˨ m ɓ aː˨˨ w tɕ w iə˨˩ˀ n l aː˨˩ˀ}|làm bao chuyện lạ
+1032|ViSSpeech|{ʔ a˨˨ ɲ tɕ aː˨˨ ŋ tɕ i˨˦ ɲ l aː˨˨ ŋ ɨə˨˨ j tʰ a˨˨ ɲ tʰ iː˨˩ˀ}|anh chàng chính là người thành thị
+3562|ViSSpeech|{ʔ a˨˨ ɲ s a˦˥ p z ə˨˩ˀ n spn ʔ ɛː˨˨ m m iː˨˩˨ m k ɨə˨˨ j v oː˨˩ˀ j v aː˨ˀ˥}|anh sắp giận sp sp sp  em mỉm cười vội vã
+2456|ViSSpeech|{ʔ ɛː˨˨ m m aː˨˨ ŋ m uə˨˨ tʰ uː˨˨ z ə˨˦ w k iː˨ˀ˥ n əː˨˨ j n aː˨˨ w}|em mang mùa thu giấu kỹ nơi nào
+2010|ViSSpeech|{v aː˨˨ k u˨ˀ˥ ŋm ɣ a˨˩ p ŋ w iː˨˨ k i˨˩ c n eː˨˨ n f aː˨˩˨ j ɗ iː˨˨ v iə˨˩ˀ n k ə˦˥ p k ɨ˨˦ w}|và cũng gặp nguy kịch nên phải đi viện cấp cứu
+1426|ViSSpeech|{l aː˨˩ˀ j ɲ əː˨˦ ʔ a˨˨ ɲ n aː˨˨ w f aː˨˩˨ j x o˨˨ ŋm}|lại nhớ anh nào phải không
+1123|ViSSpeech|{v əː˨˦ j x uə˨˨ n m a˨˩ t ɗ ə˨˨ j k i˨˨ ɲ s əː˨˩ˀ m a˨˦ w m ɛː˨˨}|với khuôn mặt đầy kinh sợ máu me
+2344|ViSSpeech|{v ə˨˩ˀ j f aː˨˩˨ j s ɛː˨˨ m s oː˨˦ tɕ əː˨˨ j tʰ eː˨˦ n aː˨˨ w}|vậy phải xem số trời thế nào
+4909|ViSSpeech|{ɗ ɨə˨˨ t i˨˨ ɲ v eː˨˨ v əː˨˦ j m o˨˩ˀ ŋm}|đưa tình về với mộng
+4794|ViSSpeech|{v oː˨˨ t i˨˨ ɲ ʔ ɛː˨˨ m x o˨˨ ŋm ɓ iə˦˥ t}|Vô tình em không biết
+642|ViSSpeech|{x o˨˨ ŋm z ə˨˦ w z iː˨˨ ʔ a˨˨ ɲ}|không giấu gì anh
+5111|ViSSpeech|{m əː˨˦ j t ə˨˩ˀ w k a˨˨ n h oː˨˩ˀ m əː˨˦ j h aː˨˩˨}|Mới tậu căn hộ mới hả
+3994|ViSSpeech|{ɲ ɨ˨˨ ŋ z ɔ˨˩ˀ ŋm n ɔː˨˦ j m oː˨ˀ˥ j l u˦˥ kp m oː˨˩ t ɣ ə˨˨ n}|nhưng giọng nói mỗi lúc một gần
+1525|ViSSpeech|{ʔ a˨˨ ɲ ɗ aː˨ˀ˥ s aː˨˨ v aː˨˨ k u˨ˀ˥ ŋm s a˦˥ p k ɔː˨˨ n ɓ o˨˨ ŋm}|anh đã xa và cũng sắp con bồng
+2251|ViSSpeech|{v aː˨˨ ŋ tʰ eː˨˨ m n a˨˦ ŋ ʔ ə˨˦ m m oː˨˩ t tɕ əː˨˨ j s w iə˨˦ n s aː˨˨ w}|vàng thêm nắng ấm một trời xuyến xao
+2225|ViSSpeech|{h aː˨˨ x o˨˨ ŋm f aː˨˩˨ j l aː˨˨ m oː˨˩ t ŋ w aː˨˩ˀ j l eː˨˩ˀ}|hà không phải là một ngoại lệ
+1991|ViSSpeech|{ɗ eː˨˦ n ɗ ə˨˨ j tʰ uː˨˨ z ɔː˨˩ˀ n t ə˦˥ t k aː˨˩˨ ɲ ɨ˨ˀ˥ ŋ tʰ ɨː˨˦ k ɔː˨˨ n s ɔː˦˥ t l aː˨˩ˀ j v aː˨˨ l ə˨˩ p ɓ aː˨˩˨ n}|đến đây thu dọn tất cả những thứ còn sót lại và lập bản
+4200|ViSSpeech|{l aː˨˦ v aː˨˨ ŋ tʰ ɨə˨˨ tʰ əː˦˥ t k w aː˨˦}|lá vàng thưa thớt quá
+235|ViSSpeech|{ɗ əː˨˨ j s o˨˦ ŋm ŋ iə˨˩ t ŋ aː˨ˀ˥ x o˨˨ ŋm}|đời sống nghiệt ngã không
+3651|ViSSpeech|{ʔ uə˨˦ ŋ n ɨə˦˥ k ɗ iː˨˨ s aː˨˨ w m a˨˩ t m a˨˨ j l aː˨˩ˀ j t aː˨˦ j z aː˨˩ˀ j ɲ ɨː˨˨ tʰ eː˨˦ s əː˨˩ˀ ʔ aː˨˨}|uống nước đi sao mặt mày lại tái dại như thế sợ à
+3642|ViSSpeech|{ɲ ɨː˨˨ m a˨˨ w tʰ uː˨˨ ʔ uə˨˦ v aː˨˨ ŋ}|như màu thu úa vàng
+5354|ViSSpeech|{s ɔ˨˨ ŋm s uə˨˨ j l aː˨˩ˀ j l eː˨˨ n s ɛː˨˨ t iə˦˥ p t u˨˩ kp k uə˨˩ k h a˨˨ ɲ tɕ i˨˨ ɲ}|Xong xuôi lại lên xe tiếp tục cuộc hành trình
+5834|ViSSpeech|{ɗ ə˨˨ w k oː˨˨ v aː˨˨ ɗ aː˨˩ p m a˨˩ˀ ɲ v aː˨˨ w m ɛː˦˥ p k ɨə˨˩˨ f ɔ˨˨ ŋm tʰ əː˨˨}|Đầu cô va đạp mạnh vào mép cửa phòng thờ
+1387|ViSSpeech|{k aː˨˨ ŋ tʰ ə˨˨ n tʰ iə˦˥ t tʰ iː˨˨ h ɔː˨˩ˀ l aː˨˩ˀ j k aː˨˨ ŋ ɗ oː˨˦ k iː˨˩ˀ ɲ a˨˨ w ɲ iə˨˨ w h əː˨˨ n}|càng thân thiết thì họ lại càng đố kị nhau nhiều hơn
+3368|ViSSpeech|{ɲ ɨ˨ˀ˥ ŋ ɓ aː˨˨ j tʰ əː˨˨ h a˨˨ j ɲ ə˦˥ t m ɔː˨˩ˀ j tʰ əː˨˨ j ɗ aː˨˩ˀ j}|những bài thơ hay nhất mọi thời đại
+126|ViSSpeech|{ɗ aː˨˨ ŋ h əː˨˦ n h ɔː˨˩˨ v iː˨˨ ŋ iː˨ˀ˥ ɗ ə˨˨ j l aː˨˨ k uə˨˩ k ɣ ɔː˨˩ˀ j k uə˨˩˨ k w ə˨˨ n}|đang hớn hỏ vì nghĩ đây là cuộc gọi của quân
+4515|ViSSpeech|{ŋ ɨə˨˨ j k ɔː˨˦ tɕ əː˨˩˨ h ɛː˨˩ˀ n v eː˨˨ s o˨˨ ŋm k uː˨ˀ˥}|người có chở hẹn về sông cũ
+2793|ViSSpeech|{k ɔː˨˨ n ɓ i˨˨ ɲ t i˨ˀ˥ ɲ ŋ ɛː˨˨ ŋ ɨə˨˨ j t aː˨˨ n ɔː˨˦ j h eː˦˥ t ɗ iː˨˨ ɗ aː˨ˀ˥}|con bình tĩnh nghe người ta nói hết đi đã
+1385|ViSSpeech|{ɓ aː˨˨ m əː˨˨ j m ɔː˨˩ˀ j ŋ ɨə˨˨ j v aː˨˨ w tɕ ɔ˨˨ ŋm ɲ aː˨˨}|bà mời mọi người vào trong nhà
+138|ViSSpeech|{tɕ i˨˨ ɲ tɕ a˨˩ˀ j ɗ iː˨˨ tɕ a˨˩ˀ j l aː˨˩ˀ j k w aː˨˦ n s w iə˨˦ n k o˨˨ ŋm v iə˨˩ k ɲ ɨː˨˨ ŋ ɨə˨˨ j tɕ ɔ˨˨ ŋm z aː˨˨ ɗ i˨˨ ɲ}|chinh chạy đi chạy lại quán xuyến công việc như người trong gia đình
+5588|ViSSpeech|{s o˨˨ ŋm k aː˨˩ˀ n ɗ aː˨˦ m ɔː˨˨ n}|Sông cạn đá mòn
+4714|ViSSpeech|{k oː˨˨ n aː˨˨ w}|cô nào
+5887|ViSSpeech|{ŋ ɨə˨˨ j t aː˨˨ h ɔː˨˩˨ j ʔ ɛː˨˨ m ɲ aː˨˨ ʔ əː˨˩˨ ɗ ə˨˨ w k ɔː˨˨ n k aː˨˦ j ɲ aː˨˨ ʔ aː˨˨ j}|người ta hỏi em nhà ở đâu con cái nhà ai
+5416|ViSSpeech|{t uə˨˩˨ j t oː˨˨ j ɲ ɨː˨˨ v ə˨˩ˀ j ɓ iː˨˩ˀ ɣ ɔː˨˩ˀ j l aː˨˨ k w iː˨˩˨ z aː˨˨ tʰ iː˨˨ k u˨ˀ˥ ŋm ɗ u˨˦ ŋm tʰ oː˨˨ j}|Tuổi tôi như vậy bị gọi là quỷ già thì cũng đúng thôi
+5597|ViSSpeech|{k w ə˨˨ n ɗ aː˨ˀ˥ m ə˦˥ t t ə˦˥ t k aː˨˩˨ tɕ aː˨˦ n tɕ ɨə˨˨ ŋ t w iə˨˩ t v ɔ˨˩ˀ ŋm}|Quần đã mất tất cả chán chường tuyệt vọng
+5682|ViSSpeech|{v aː˨˨ ŋ ɔː˨˩˨ ʔ iː˨˦ m uə˨˦ n ʔ əː˨˩˨ l aː˨˩ˀ j spn ɗ ə˨˨ j m oː˨˩ t t w ə˨˨ n}|Và ngỏ ý muốn ở lại sp sp sp  đây một tuần
+5900|ViSSpeech|{ʔ uə˨˦ ŋ tɕ ɨə˨˨ h eː˦˥ t l iː˨˨ n ɨə˦˥ k}|Uống chưa hết ly nước
+574|ViSSpeech|{v aː˨˨ ɗ ɔː˨˩˨ ɲ ɨː˨˨ m a˨˨ w m a˨˦ w tʰ a˨˦ m f aː˨˨}|và đỏ như màu máu thắm pha
+5468|ViSSpeech|{ɲ ɨː˨˨ k eː˨˩˨ k o˨˨ ŋm tɕ aː˨˨}|Như kể công cha
+2614|ViSSpeech|{m uə˨˨ z aː˨˨ w m uə˨˨ l a˨˩ˀ ŋ tʰ i˨˨ ɲ}|mùa giao mùa lặng thinh
+3163|ViSSpeech|{k ɔː˨˨ n k eː˨˨ w k ɔː˨˨ n ɣ ɔː˨˩ˀ j}|con kêu con gọi
+3203|ViSSpeech|{v ə˨ˀ˥ n ɲ iː˨˨ n ɗ ɨə˨˩ k z ɔː˨ˀ˥ tɕ iə˦˥ k s ɛː˨˨ t aː˨˩˨ j t ɨː˨˩˨ tʰ ə˨˨ n m a˨˨ w s a˨˨ ɲ ʔ ə˨˦ j}|vẫn nhìn được rõ chiếc xe tải tử thần màu xanh ấy
+1075|ViSSpeech|{v aː˨˨ ŋ oː˨˨ j ɓ eː˨˨ n ɗ o˨˦ ŋm k uː˨˩˨ j l ɨə˨˩˨ ɗ aː˨˨ ŋ t aː˨˨ n}|và ngồi bên đống củi lửa đang tàn
+4514|ViSSpeech|{k u˨˨ ŋm tɕ u˦˥ kp t ə˨˨ n s w ə˨˨ n spn ɲ ə˨˨ n n a˨˨ m m əː˨˦ j spn s iː˨˨ n k u˨˨ ŋm k i˨˦ ɲ tɕ u˦˥ kp m ɨ˨˨ ŋ}|cung chúc tân xuân sp sp sp  nhân năm mới sp sp sp  xin cung kính chúc mừng
+1056|ViSSpeech|{z aː˨˩ˀ v ə˨˨ ŋ}|dạ vâng
+4098|ViSSpeech|{ɗ ɨ˨˨ ŋ k ɔː˨˦ m aː˨˨ ɗ o˨˩ˀ ŋm v aː˨˨ w z iː˨˨ k aː˨˩˨}|đừng có mà động vào gì cả
+2530|ViSSpeech|{ʔ a˨˨ ɲ tɕ aː˨˨ ŋ k iə˨˨ f aː˨˩˨ j z oː˨˨ m a˨˦ j s ɛː˨˨}|anh chàng kia phải rồ máy xe
+4454|ViSSpeech|{v əː˨˩ˀ k uə˨˩˨ tɕ uː˨˦ s ɨə˨˩˨ s ɛː˨˨ m əː˨˦ j n ɔː˨˦ j tɕ ɛː˨˨ n v aː˨˨ w}|vợ của chú sửa xe mới nói chen vào
+4671|ViSSpeech|{ɓ oː˨˦ ʔ ɛː˨˨ m l iə˨˨ n k ɨə˨˨ j ɓ aː˨˩˨ w v əː˨˦ j tɕ uː˨˦}|bố em liền cười bảo với chú
+3413|ViSSpeech|{ɓ oː˨˦ m ɛː˨˩ˀ k uə˨˩˨ f ɨə˨˨ ŋ l aː˨˨ w l aː˨˩ˀ j ʔ oː˨˨ m ŋ iə˨˨ m l ə˨˦ j k ɔː˨˨ n}|bố mẹ của phương lao lại ôm nghiềm lấy con
+4723|ViSSpeech|{t iə˨˩ˀ n ɗ ə˨˨ j t aː˨˨ w n ɔː˨˦ j tɕ ɔː˨˨ m a˨˨ j ŋ ɛː˨˨ k aː˨˦ j n a˨˨ j ɲ ɛː˨˦}|tiện đây tao nói cho mày nghe cái này nhé
+2313|ViSSpeech|{ʔ oː˨˨ j t i˨˨ ɲ ʔ iə˨˨ w v aː˨˨ k ɛː˨˩˨ ɗ əː˨˨ j v iə˨ˀ˥ n s ɨː˨˦}|ôi tình yêu và kẻ đời viễn xứ
+1920|ViSSpeech|{tɕ ɔː˨˨ n eː˨˨ n l aː˨˨ x iː˨˨ s o˨˦ ŋm k ɔː˨˦ tʰ eː˨˩˨ tʰ ə˨˦ j tɕ ɨə˦˥ k ɗ ɨə˨˩ k tɕ w iə˨˩ˀ n k uə˨˩˨ ʔ ə˨˨ m z əː˨˦ j}|cho nên là khi sống có thể thấy trước được chuyện của âm giới
+5225|ViSSpeech|{v eː˨˨ t əː˨˦ j ɗ aː˨˨ l aː˨˩ t tɕ a˦˥ k l aː˨˨ h əː˨˨ n s a˨˦ w z əː˨˨}|Về tới Đà Lạt chắc là hơn sáu giờ
+448|ViSSpeech|{tʰ əː˨˨ j k iː˨˨ ʔ əː˨˩˨ l iə˨˨ n s oː˨˨ l ə˨˨ n tʰ ɨː˨˦ h aː˨˨ j}|thời kỳ ở liên xô lần thứ hai
+1828|ViSSpeech|{t ɨ˨˨ ŋ x u˨˨ ŋm ɓ ə˨˩ k k aː˨˩˨ m s u˦˥ kp m əː˨˦ j tɕ iː˨˩˨ ɗ ɨə˨˩ k ɓ a˦˥ t ɗ ə˨˨ w s a˨˨ w v aː˨˨ j z ə˨˨ j}|từng khung bậc cảm xúc mới chỉ được bắt đầu sau vài giây
+3825|ViSSpeech|{n ɔː˨˦ l aː˨˩ˀ j k ɨə˨˨ j v əː˨˦ j n ɛː˦˥ t m a˨˩ t v uː˨˨ j t ɨə˨˨ j}|nó lại cười với nét mặt vui tươi
+5457|ViSSpeech|{ʔ a˨˨ ɲ v ɨə˨˨ ʔ oː˨˨ m ɗ ə˨˨ w v ɨə˨˨ z eː˨˨ n z iː˨˩˨}|Anh vừa ôm đầu vừa rên rỉ
+5919|ViSSpeech|{s i˨˨ ɲ l aː˨ˀ˥ w ɓ e˨˩ˀ ɲ t ɨː˨˩˨}|Sinh lão bệnh tử
+4570|ViSSpeech|{x o˨˨ ŋm tɕ iː˨˩˨ v ə˨˩ˀ j n ɔː˨˦ k ɔː˨˨ n k ɨə˨˨ j n ɔː˨˦ j m oː˨˩ t k a˦˥ c z ə˦˥ t t ɨː˨˩ˀ ɲ iə˨˨ n}|không chỉ vậy nó còn cười nói một cách rất tự nhiên
+1758|ViSSpeech|{k aː˨˩˨ m z aː˦˥ k tʰ ɛː˨˨ m x aː˦˥ t m oː˨˩ t ŋ ɨə˨˨ j ɗ aː˨˨ n ʔ o˨˨ ŋm ɗ eː˨˦ n x o˨˨ ŋm tʰ eː˨˩˨ tɕ iː˨˩ˀ w n oː˨˩˨ j}|cảm giác thèm khát một người đàn ông đến không thể chịu nổi
+5089|ViSSpeech|{l u˦˥ kp h ɔː˨˩ˀ ɓ ɔː˨˩˨ ʔ a˨˨ ɲ l eː˨˨ n s ɛː˨˨ ʔ a˨˨ ɲ k ɔː˨˦ ɓ iə˦˥ t z iː˨˨ x o˨˨ ŋm}|Lúc họ bỏ anh lên xe anh có biết gì không
+1290|ViSSpeech|{t w iː˨˨ ɲ iə˨˨ n m oː˨ˀ˥ j ŋ ɨə˨˨ j ɣ a˨˩ p m oː˨˩ t z aː˨˩ˀ ŋ x aː˦˥ k ɲ a˨˨ w}|tuy nhiên mỗi người gặp một dạng khác nhau
+4274|ViSSpeech|{t aː˨˨ j n aː˨˩ˀ n z iə˨ˀ˥ n z aː˨˨ tɕ əː˦˥ p ɲ w aː˨˦ ŋ ŋ a˨˨ j ʔ əː˨˩˨ ɗ ə˨˨ w h ɛː˨˩˨ m z aː˨˨ w v əː˨˦ j ɗ ɨə˨˨ ŋ l əː˨˦ n}|tai nạn diễn ra chớp nhoáng ngay ở đầu hẻm giao với đường lớn
+2358|ViSSpeech|{ɣ ɨ˨˩˨ j v aː˨˨ w k əː˨˨ n z ɔː˨˦ ŋ aː˨˨ n l əː˨˨ j ʔ iə˨˨ w ʔ ɛː˨˨ m}|gửi vào cơn gió ngàn lời yêu em
+1098|ViSSpeech|{k u˨ˀ˥ ŋm ɲ ɨː˨˨ ʔ ɛː˨˨ m z ə˨˦ w ɲ ɨ˨ˀ˥ ŋ spn ɗ iə˨˨ w k w aː˨˦ tʰ ɨ˨˩ k}|cũng như em dấu những sp sp sp  điều quá thực
+1771|ViSSpeech|{ɣ ɛː˨˦ k w aː˨˨ k w aː˨˦ n n ɨə˦˥ k k uə˨˩˨ h aː˨˨ n iː˨˨ v aː˨˨ n ɔː˨˦ j v əː˨˦ j k oː˨˨}|ghé qua quán nước của hà ni và nói với cô
+4866|ViSSpeech|{ʔ aː˨˨ h oː˨˩ˀ j n a˨˨ m ɲ iː˨˨ n z aː˨˨ ɓ eː˨˨ n ŋ w aː˨˨ j k ɔː˨˦ k a˨˦ ɲ k ɨə˨˩˨ ɗ aː˨˩ˀ j m əː˨˩˨}|a hội nằm nhìn ra bên ngoài có cánh cửa đại mở
+4630|ViSSpeech|{t oː˨˨ j t eː˨˨ n z w iː˨˨}|tôi tên duy
+5464|ViSSpeech|{v aː˨˨ t ɨə˨˨ ŋ l aː˨˨ j ʔ iː˦˥ t z aː˨˨ k u˨ˀ˥ ŋm ŋ ɔː˨˩ t ŋ aː˨˨ w}|Và tương lai ít ra cũng ngọt ngào sp sp sp sp 
+3017|ViSSpeech|{v əː˨˦ j l aː˨˩ˀ j n a˨˨ ŋ l ɨ˨˩ k k uə˨˩˨ t oː˨˨ j k ɔː˨˦ h aː˨˩ˀ n}|với lại năng lực của tôi có hạn
+3311|ViSSpeech|{tɕ a˨˨ m s ɔ˦˥ kp ɗ ɨə˨˩ k tɕ uː˨˩˨ k uə˨˩˨ m i˨˨ ɲ}|chăm sóc được chủ của mình
+2977|ViSSpeech|{tɕ a˨˨ ŋ h a˨˨ j t i˨˨ ɲ l ɨə˨˦ ɗ oː˨˨ j}|trăng hay tình lứa đôi
+2795|ViSSpeech|{ʔ aː˨˦ w ɓ a˨˨ j z aː˨˩˨ j n a˨˦ ŋ m oː˨˩ t tɕ iə˨˨ w}|áo bay rải nắng một chiều
+1304|ViSSpeech|{x iː˨˨ tɕ i˨˨ ɲ ɗ eː˨˦ n s aː˦˥ k k uə˨˩˨ ɲ iː˨˨ v ə˨ˀ˥ n ɗ ɨə˨˩ k f uː˨˩˨ k iː˨˦ n}|khi trinh đến xác của nhi vẫn được phủ kín
+738|ViSSpeech|{ʔ ɛː˨˨ m ɓ ə˦˥ t z aː˦˥ k z u˨˨ ŋm m i˨˨ ɲ m ɛː˨˩ˀ ʔ ɛː˨˨ m l iə˨˨ n v oː˨˩ˀ j h ɔː˨˩˨ j}|em bất giác rùng mình mẹ em liền vội hỏi
+387|ViSSpeech|{m ɛː˨˩ˀ tʰ aː˨˩˨ w l iə˨˨ n x ɔ˦˥ kp}|mẹ thảo liền khóc
+3696|ViSSpeech|{tɕ i˨˨ ɲ t iə˨ˀ˥ n ɓ aː˨˩ˀ n z aː˨˨ k ɨə˨˩˨ z oː˨˨ j n ɔː˨˦ j t iə˦˥ p}|trình tiễn bạn ra cửa rồi nói tiếp
+893|ViSSpeech|{ʔ a˨˨ ɲ tʰ ə˨˩ t s ɨː˨˩ˀ x o˨˨ ŋm ɲ əː˨˦ l aː˨˨ l u˦˥ kp n ɨə˨˩˨ ɗ eː˨˨ m ɗ aː˨ˀ˥ ɓ ɔː˨˩˨ ɗ iː˨˨ ɗ ə˨˨ w}|anh thật sự không nhớ là lúc nửa đêm đã bỏ đi đâu
+2497|ViSSpeech|{ɓ aː˨˨ ʔ ə˨˦ j k u˨ˀ˥ ŋm ɓ iː˨˩ˀ t aː˨˨ j n aː˨˩ˀ n s ɛː˨˨ ʔ ɨː˨˨}|bà ấy cũng bị tai nạn xe ư
+4791|ViSSpeech|{s aː˨˨ w t aː˨˨ w ʔ əː˨˩˨ z ɨə˨˦ j ɗ ɔː˨˦ v əː˨˦ j m a˨˨ j ɗ ɨə˨˩ k}|Sao tao ở dưới đó với mày được
+5060|ViSSpeech|{k aː˨˩˨ m ʔ əː˨˨ n k ɔː˨˨ n}|Cảm ơn con
+5686|ViSSpeech|{h aː˨˨ n iː˨˨ ɗ aː˨ˀ˥ ɲ iː˨˨ n ŋ ɨə˨˨ j x a˦˥ c l aː˨˩ˀ z oː˨˨ j ɲ uː˨˦ n v aː˨˨ j n ɔː˨˦ j}|Hà Ni đã nhìn người khách lạ rồi nhún vai nói
+2781|ViSSpeech|{tɕ w iə˨˩ˀ n n a˨˨ j t oː˨˨ j x o˨˨ ŋm f aː˨˩˨ j l aː˨˨ tɕ ɨə˨˨ ɣ a˨˩ p}|chuyện này tôi không phải là chưa gặp
+5322|ViSSpeech|{ɗ oː˨˨ j z ɛː˦˥ p v oː˨˨ tɕ iː˨˨ x a˨˨ ŋ x iː˦˥ t s ɔ˨˨ ŋm h a˨˨ ɲ}|Đôi dép vô tri khăng khít song hành
+191|ViSSpeech|{ɓ uə˨˨ n k w aː˨˦ spn h oː˨˨ m n a˨˨ j s ɛː˨˨ m t iə˨˩˨ w tʰ w iə˦˥ t}|buồn quá sp sp sp  hôm nay xem tiểu thuyết
+5922|ViSSpeech|{m ɛː˨˩ˀ k ɔː˨˨ n z ɔː˨˩ˀ n z ɛː˨˩ p}|Mẹ còn dọn dẹp
+5128|ViSSpeech|{m ɛː˨˩ˀ ʔ ɛː˨˨ m l aː˨˨ m v iə˨˩ k}|mẹ em làm việc
+752|ViSSpeech|{ɲ ɨ˨˨ ŋ m aː˨˨ tʰ ə˨˦ j ɓ aː˨˩ˀ n ɗ aː˨˨ ŋ ŋ uː˨˩˨}|nhưng mà thấy bạn đang ngủ
+5784|ViSSpeech|{x ɛː˨ˀ˥ k əː˨˩˨ j ʔ aː˨˦ w v ɛː˨˨ s t̚ ʔ əː˨˩˨ ɓ eː˨˨ n ŋ w aː˨˨ j}|Khẽ cởi áo vest ở bên ngoài
+5752|ViSSpeech|{m ɛː˨˩ˀ tɕ a˨˨ m m ɛː˨˩ˀ ɓ a˨ˀ˥ m}|Mẹ chăm mẹ bẵm
+3124|ViSSpeech|{m aː˨˨ ŋ tʰ ɛː˨˨ w k aː˨˩˨ ɲ ɨ˨ˀ˥ ŋ ɓ aː˨˨ j tʰ əː˨˨ z aː˨˨ ŋ z əː˨˩˨}|mang theo cả những bài thơ dang dở
+5139|ViSSpeech|{ŋ ɨə˨˨ j t aː˨˨ f uː˨˩ˀ spn h w a˨˩ k tʰ əː˨˨ ʔ əː˨˨ spn tɕ a˨˩˨ ŋ ɓ iə˦˥ t}|Người ta phụ sp sp sp  hoặc thờ ơ sp sp sp  chẳng biết
+228|ViSSpeech|{ɗ ə˨˩ˀ w v aː˨˨ w tɕ ɨə˨˨ ŋ k aː˨˨ w}|đậu vào trường cao
+1283|ViSSpeech|{m ɛː˨˩ˀ ʔ ɛː˨˨ m n ɔː˨˦ j}|mẹ em nói
+1401|ViSSpeech|{s ɨə˨˨ k ɔː˨˦ ɓ aː˨˨ tɕ iː˨˩ˀ s i˨˨ ɲ ɗ oː˨˨ j m aː˨˨ x o˨˨ ŋm m a˨˨ j tɕ eː˦˥ t ʔ iə˨˩˨ w ɗ ə˨˦ j}|xưa có bà chị sinh đôi mà không may chết yểu đấy
+1070|ViSSpeech|{h aː˨˨ l iə˨˨ n h ɔː˨˩˨ j t iə˦˥ p}|hà liền hỏi tiếp
+5143|ViSSpeech|{k aː˨˦ j tʰ aː˨˩˨ w n ɔː˨˦ tɕ eː˦˥ t z oː˨˨ j l aː˨˨ m z iː˨˨ k ɔː˨˦ m aː˨˨ ɣ ɔː˨˩ˀ j l a˨˦ m tʰ eː˨˦}|Cái Thảo nó chết rồi làm gì có mà gọi lắm thế
+3991|ViSSpeech|{ɗ ɔː˨˦ l aː˨˨ v iə˨˩ k m aː˨˨ k oː˨˨ l iə˨˨ n t u˨˩ kp l aː˨˨ m s uə˦˥ t m oː˨˩ t t w ə˨˨ n v ɨə˨˨ k w aː˨˨}|đó là việc mà cô liên tục làm suốt một tuần vừa qua
+3008|ViSSpeech|{x iː˨˨ m aː˨˨ tɕ i˨˨ ɲ v ə˨ˀ˥ n ɗ aː˨˨ ŋ}|khi mà chinh vẫn đang
+3847|ViSSpeech|{m ɛː˨˩ˀ tɕ a˨˨ m m ɛː˨˩ˀ ɓ a˨ˀ˥ m}|mẹ chăm mẹ bẵm
+578|ViSSpeech|{ɓ oː˨˦ m ɛː˨˩ˀ tɕ ɔː˨˨ ʔ ɛː˨˨ m ɗ iː˨˨ ʔ a˨˨ n ɲ aː˨˨ h aː˨˨ ŋ m ɨ˨˨ ŋ ʔ ɛː˨˨ m ɗ oː˨ˀ˥}|bố mẹ cho em đi ăn nhà hàng mừng em đỗ
+454|ViSSpeech|{ʔ a˨˨ n n ɔː˨˨ spn s ɔ˨˨ ŋm ŋ iː˨ˀ˥}|ăn no sp sp sp  xong nghĩ
+4325|ViSSpeech|{tɕ a˨˨ m ɗ a˨˦ ŋ ŋ aː˨˨ n k a˨˨ j tɕ ɨə˨˨ m oː˨˩ t l ə˨˨ n w aː˨˦ n tʰ aː˨˦ n}|trăm đắng ngàn cay chưa một lần oán thán
+621|ViSSpeech|{k aː˨˩˨ tɕ iə˦˥ k s ɛː˨˨ t aː˨˩˨ j k u˨ˀ˥ ŋm m ə˦˥ t h uː˦˥ t l uə˨˨ n}|cả chiếc xe tải cũng mất hút luôn
+4964|ViSSpeech|{tɕ ɨː˨˦ x o˨˨ ŋm f aː˨˩˨ j l aː˨˨ x o˨˨ ŋm k ɔː˨˦ tɕ w iə˨˩ˀ n z iː˨˨}|chứ không phải là không có chuyện gì
+5672|ViSSpeech|{z oː˨˨ j k aː˨˩˨ ɲ iː˨˨ n ɨə˨ˀ˥ ʔ a˨˨ ɲ f aː˨˩˨ j s o˨˦ ŋm tʰ a˨˨ j k aː˨˩˨ k aː˦˥ k f ə˨˨ n k uə˨˩˨ ɲ iː˨˨}|Rồi cả Nhi nữa anh phải sống thay cả các phần của Nhi
+462|ViSSpeech|{v aː˨˨ ɗ eː˨˦ n m oː˨˩ t l u˦˥ kp ŋ aː˨ˀ˥ z aː˨˨ j s uə˨˦ ŋ s aː˨˨ n}|và đến một lúc ngã dài xuống sàn
+4239|ViSSpeech|{tɕ i˨˨ ɲ l iə˨˨ n ɗ aː˦˥ p}|trinh liền đáp
+859|ViSSpeech|{tɕ u˨˦ ŋm t oː˨˨ j ɗ aː˨˨ ŋ tɕ əː˨˩˨ ɲ a˨˨ w ɗ iː˨˨ s a˨˦ m ɗ oː˨˨ k ɨə˨˦ j}|chúng tôi đang chở nhau đi sắm đồ cưới
+2780|ViSSpeech|{ɗ aː˨˦ m ɗ o˨˨ ŋm ɗ ɨə˨˩ k z aː˨˩˨ j t aː˨˦ n}|đám đông được giải tán
+1723|ViSSpeech|{tɕ i˨˨ ɲ ɗ aː˨˨ ŋ m uə˨˦ n k w eː˨˨ n ɗ iː˨˨ ɗ iə˨˨ w ɗ ɔː˨˦}|trinh đang muốn quên đi điều đó
+2178|ViSSpeech|{tɕ iː˨˩ˀ ʔ ə˨˦ j n ɔː˨˦ j f aː˨˩˨ j ɗ ə˨˦ j}|chị ấy nói phải đấy
+894|ViSSpeech|{s aː˨˦ ŋ n a˨˨ j k u˨˨ ŋm s a˨˨ w m oː˨ˀ˥ j x iː˨˨ tʰ ɨ˦˥ k z ə˨˩ˀ j ɗ iː˨˨ s aː˨˨ ŋ f ɔ˨˨ ŋm tʰ əː˨˨}|sáng nay cùng sau mỗi khi thức dậy đi sang phòng thờ
+2606|ViSSpeech|{h ɛː˨˨ w m a˨˨ j s ɛː˨˨ l a˨˩ˀ ɲ ʔ a˨˨ ɲ tʰ ɛː˨˨ m v ɔ˨˨ ŋm t a˨˨ j}|heo may se lạnh anh thèm vòng tay
+58|ViSSpeech|{x ɔ˦˥ kp ɲ iə˨˨ w k u˨ˀ˥ ŋm ɗ eː˨˦ n l u˦˥ kp ɗ oː˨˨ j m a˦˥ t k uə˨˩˨ k w ə˨˨ n m eː˨˩ t m ɔː˨˩˨ j}|khóc nhiều cũng đến lúc đôi mắt của quân mệt mỏi
+1315|ViSSpeech|{k oː˨˨ ɣ aː˨˦ j tʰ aː˨˦ ŋ m ɨə˨˨ j m oː˨˩ t k uə˨˩˨ t oː˨˨ j ʔ əː˨˨ j}|cô gái tháng mười một của tôi ơi
+5397|ViSSpeech|{ʔ aː˨˨ f ɛː˨˨ ŋ k u˨ˀ˥ ŋm tɕ a˨˩ˀ j s aː˨˨ ŋ ɣ ɔː˨˩ˀ j n ɔː˨˦ ɗ iː˨˨ tɕ əː˨˨ j}|Apheng cũng chạy sang gọi nó đi chơi
+380|ViSSpeech|{ɓ əː˨˩˨ j v iː˨˨ k oː˨˨ k w aː˨˦ v oː˨˩ˀ j v əː˨˦ j s w iː˨˨ ŋ iː˨ˀ˥ v eː˨˨ k w ə˨˨ n}|bởi vì cô quá vội với suy nghĩ về quân
+1499|ViSSpeech|{ɲ ɨ˨˨ ŋ l u˦˥ kp n a˨˨ j ɲ iː˨˨ n l aː˨˩ˀ j tʰ ə˨˦ j m a˦˥ t k uə˨˩˨ ʔ a˨˨ ɲ t aː˨˨ h ə˨˨ w ɲ ɨː˨˨ h eː˦˥ t tʰ ə˨˨ n}|nhưng lúc này nhìn lại thấy mắt của anh ta hầu như hết thần
+1960|ViSSpeech|{h i˨˨ ɲ ɲ ɨː˨˨ h aː˨˨ ɗ aː˨ˀ˥ ɗ ɨə˨˩ k spn ŋ ɛː˨˨ ʔ aː˨˨ j ɗ ɔː˨˦ ɲ a˦˥ k ɗ eː˨˦ n z oː˨˨ j tʰ iː˨˨ f aː˨˩˨ j}|hình như hà đã được sp sp sp  nghe ai đó nhắc đến rồi thì phải
+847|ViSSpeech|{ɲ iː˨˨ n v aː˨˨ w ɓ eː˨˨ n tɕ ɔ˨˨ ŋm h aː˨˩˨ h əː˨˨ j z ə˨˩ t m i˨˨ ɲ}|nhìn vào bên trong hả hơi giật mình
+5522|ViSSpeech|{ɲ ɨ˨˨ ŋ m aː˨˨ z aː˨˨ ɗ i˨˨ ɲ k uə˨˩˨ h ɔː˨˩ˀ k u˨ˀ˥ ŋm ɗ ə˨˨ w ɓ iə˦˥ t ɲ iə˨˨ w h əː˨˨ n tɕ u˨˦ ŋm t aː˨˨}|Nhưng mà gia đình của họ cũng đâu biết nhiều hơn chúng ta
+2038|ViSSpeech|{t ɨː˨˨ ɗ ə˨˦ j tʰ uː˨˨ z oː˨˨ j tʰ uː˨˨ l aː˨˩ˀ j tʰ uː˨˨}|từ đấy thu rồi thu lại thu
+2253|ViSSpeech|{v ɨə˨˨ m uə˨˦ n n ɔː˨˦ j tʰ iː˨˨ l aː˨˩ˀ j tʰ ɨː˨˨ ŋ ɨə˨˨ j z aː˨˨}|vừa muốn nói thì lại thừ người ra
+154|ViSSpeech|{ɓ əː˨˩˨ j k əː˨˨ tʰ eː˨˩˨ k uə˨˩˨ tɕ i˨˨ ɲ l a˨˩ˀ ɲ t w aː˦˥ t}|bởi cơ thể của trinh lạnh toát
+5773|ViSSpeech|{k ɔː˨˨ n m uə˨˦ n z iː˨˨ m ɛː˨˩ˀ k u˨ˀ˥ ŋm s ɛː˨ˀ˥ ɗ aː˦˥ p ʔ ɨ˨˦ ŋ}|Con muốn gì mẹ cũng sẽ đáp ứng
+175|ViSSpeech|{k ə˨˨ w tɕ w iə˨˩ˀ n k ɔː˨˦ t ɨə˨˩ˀ ɗ eː˨˨ l aː˨˨ m aː˨˨ ʔ əː˨˩˨ v u˨˨ ŋm n uː˨˦ j t ə˨˨ j ɓ a˦˥ k}|câu chuyện có tựa đề là ma ở vùng núi tây bắc
+4874|ViSSpeech|{ɲ ɨ˨˨ ŋ z ɔː˨˨ k ɔː˨˦ ɲ iə˨˨ w tɕ w iə˨˩ˀ n n eː˨˨ n ɓ aː˨˦ n ɲ aː˨˨ ɗ ɔː˨˦ ɗ eː˨˩˨ m uə˨˨ n əː˨˨ j x aː˦˥ k}|nhưng do có nhiều chuyện nên bán nhà đó để mua nơi khác
+4323|ViSSpeech|{n ɔː˨˦ k ɔː˨˦ tʰ eː˨˩˨ z uː˦˥ p k ɔː˨˨ n ɓ ɛː˨˦ v ɨə˨˩ t k w aː˨˨ ŋ w iː˨˨ h iə˨˩˨ m h iə˨˩ˀ n t aː˨˩ˀ j}|nó có thể giúp con bé vượt qua nguy hiểm hiện tại
+388|ViSSpeech|{tɕ iː˨˩˨ k ə˨˨ n ɓ aː˨˩˨ n tʰ ə˨˨ n m i˨˨ ɲ ɗ ɨə˨˩ k ʔ aː˨˨ n t w aː˨˨ n}|chỉ cần bản thân mình được an toàn
+5466|ViSSpeech|{ʔ a˨˨ ɲ ʔ əː˨˨ j k ɔː˨˦ tʰ ə˨˦ w tʰ aː˨˦ ŋ ŋ a˨˨ j t ɨə˨˨ ŋ t ɨː˨˨}|Anh ơi có thấu tháng ngày tương tư
+5558|ViSSpeech|{ɲ ɨ˨ˀ˥ ŋ ŋ a˨˨ j k w aː˨˨ k w ə˨˨ n ɗ aː˨ˀ˥ f aː˨˩˨ j tɕ iː˨˩ˀ w ɗ ɨ˨˩ˀ ŋ k w aː˨˦ ɲ iə˨˨ w}|Những ngày qua Quân đã phải chịu đựng quá nhiều
+4272|ViSSpeech|{x o˨˨ ŋm z aː˨˦ m n ɔː˨˦ j z aː˨˨ s ɨː˨˩ˀ tʰ ə˨˩ t}|không dám nói ra sự thật
+1719|ViSSpeech|{ʔ ɨː˨˨ tʰ iː˨˨ t aː˨˨ w k u˨ˀ˥ ŋm t i˨˦ ɲ ɲ ɨː˨˨ v ə˨˩ˀ j ɲ ɨ˨˨ ŋ m aː˨˨ n a˨ˀ˥ j k ɔː˨˦ ŋ ɨə˨˨ j ɣ ɔː˨˩ˀ j}|ừ thì tao cũng tính như vậy nhưng mà nãy có người gọi
+1786|ViSSpeech|{k u˨ˀ˥ ŋm tɕ a˨˩˨ ŋ h iə˨˩˨ w t aː˨˩ˀ j s aː˨˨ w t oː˨˨ j h w aː˨˨ n t w aː˨˨ n x o˨˨ ŋm k ɔː˨˦ ɲ əː˨˦ z iː˨˨ h eː˦˥ t}|cũng chẳng hiểu tại sao tôi hoàn toàn không có nhớ gì hết
+1296|ViSSpeech|{ʔ iə˨˨ w l aː˨˨ tɕ eː˦˥ t ʔ əː˨˩˨ tɕ ɔ˨˨ ŋm l ɔ˨˨ ŋm m oː˨˩ t ʔ iː˦˥ t}|yêu là chết ở trong lòng một ít
+3718|ViSSpeech|{m ɔː˨˩ˀ j tʰ ɨː˨˦ ɗ eː˨˨ w z ə˦˥ t l aː˨˨ l a˨˩ˀ ɲ ɲ aː˨˩ t}|mọi thứ đều rất là lạnh nhạt
+2404|ViSSpeech|{tɕ ɔː˨˨ n eː˨˨ n k u˨ˀ˥ ŋm ɲ ə˨ˀ˥ n n aː˨˩ˀ j ŋ oː˨˨ j tɕ eː˨˨ n s ɛː˨˨}|cho nên cũng nhẫn nại ngồi trên xe
+2376|ViSSpeech|{ɗ a˨˦ ɲ tɕ eː˦˥ t l a˨˦ m}|đánh chết lắm
+4152|ViSSpeech|{tɕ i˨˦ ɲ l u˦˥ kp n a˨˨ j tɕ ɔ˨˨ ŋm ɓ oː˨˩ˀ v a˨˦ j ŋ uː˨˩˨ m a˨˨ w tɕ a˨˦ ŋ}|chính lúc này trong bộ váy ngủ màu trắng
+2158|ViSSpeech|{s ɛː˨˨ ɗ iə˨˨ n t o˨˨ ŋm v aː˨˨ w h aː˨˨ j ŋ ɨə˨˨ j ɗ iː˨˨ s ɛː˨˨ m a˨˦ j}|xe điên tông vào hai người đi xe máy
+2927|ViSSpeech|{ɗ eː˨˩˨ ɓ ɔː˨˩ˀ n h ɔː˨˩ˀ l ɨə˨˨ ɗ aː˨˩˨ w tɕ u˨˩ kp l əː˨˩ˀ j m aː˨˨ tʰ oː˨˨ j}|để bọn họ lừa đảo trục lợi mà thôi
+5563|ViSSpeech|{z oː˨˨ j v oː˨˨ t i˨˨ ɲ tʰ ɨə˨˨ ŋ ɲ əː˨˦}|Rồi vô tình thương nhớ
+556|ViSSpeech|{tʰ ə˨˦ j z aː˨˨ ɗ i˨˨ ɲ n ɔː˨˦ ɓ aː˨˩˨ w l aː˨˨ m əː˨˦ j t i˨˩˨ ɲ l aː˨˩ˀ j ɗ eː˨˨ m k w aː˨˨}|thấy gia đình nó bảo là mới tỉnh lại đêm qua
+980|ViSSpeech|{t oː˨˨ j v əː˨˦ j s ɨː˨˩ˀ v aː˦˥ k ɗ oː˨˨ ɗ iː˨˨ tʰ ɛː˨˨ w ʔ aː˨˨ h oː˨˩ˀ j}|tôi với sự vác đồ đi theo a hội
+2282|ViSSpeech|{k ɔː˨˩˨ l ə˨˩ t tʰ ɛː˨˨ w tɕ iə˨˨ w m ə˨˨ j}|cỏ lật theo chiều mây
+695|ViSSpeech|{s ɨː˨˩ˀ x i˨˨ ɲ ɓ iː˨˩˨}|sự khinh bỉ
+726|ViSSpeech|{m aː˨˨ k ɨː˨˦ l aː˨˨ m f iə˨˨ n k ɔː˨˨ n tʰ a˨˨ ɲ ɲ aː˨˨ tɕ iː˨˩ˀ ɲ ɨː˨˨ v ə˨˩ˀ j}|mà cứ làm phiền con thanh nhà chị như vậy
+2347|ViSSpeech|{ɲ a˨˨ ɲ ɲ ɨː˨˨ k a˦˥ t}|nhanh như cắt
+822|ViSSpeech|{m əː˨˩˨ n ɨə˦˥ k ŋ ɔː˨˩ t v aː˨˨ s ɨə˨ˀ˥ tɕ ɔː˨˨ n ɔː˨˦ ʔ a˨˨ n}|mở nước ngọt và sữa cho nó ăn
+4872|ViSSpeech|{m ɔ˨˨ ŋm k ɔː˨˨ n ɓ i˨˨ ɲ ʔ aː˨˨ n}|mong con bình an
+5996|ViSSpeech|{ʔ a˨˨ ɲ m uə˨˦ n v aː˨˨ w z ɔː˨˨ s ɛː˦˥ t z ə˦˥ k ʔ ɛː˨˨ m m əː˨˨}|anh muốn vào dò xét giấc em mơ
+1119|ViSSpeech|{ɗ eː˨˩˨ k u˨˨ ŋm v əː˨˦ j n ɔː˨˦ t iə˦˥ p t u˨˩ kp ɣ ə˨˨ j tʰ eː˨˨ m ɲ ɨ˨ˀ˥ ŋ tʰ aː˨˩˨ m k a˨˩˨ ɲ}|để cùng với nó tiếp tục gây thêm những thảm cảnh
+3211|ViSSpeech|{ɓ əː˨˩˨ j v iː˨˨ h ɔː˨˩ˀ k u˨ˀ˥ ŋm ɓ iː˨˩ˀ tɕ ɛː˨˩˨ m a˦˥ t}|bởi vì họ cũng bị chẻ mắt
+5871|ViSSpeech|{ŋ oː˨˨ j ɲ aː˨˨ tɕ ɨə˨˨ s a˨˩˨ j z aː˨˨ tɕ w iə˨˩ˀ n z iː˨˨}|ngôi nhà chưa xảy ra chuyện gì
+2916|ViSSpeech|{t iə˨˦ ŋ tɕ uə˨˨ ŋ ɗ o˨˨ ŋm h oː˨˨ k w aː˨˩˨ l a˦˥ k v aː˨˨ ŋ l eː˨˨ n}|tiếng chuông đồng hồ quả lắc vang lên
+3461|ViSSpeech|{ɗ eː˨˩˨ tɕ a˨˦ ɲ tɕ ɔː˨˨ f ɨə˨˨ ŋ t ɨː˨˩ˀ m i˨˨ ɲ l aː˨˨ m t oː˨˩˨ n tʰ ɨə˨˨ ŋ}|để chánh cho phương tự mình làm tổn thương
+3036|ViSSpeech|{tʰ ə˨˦ m t u˨˨ ŋm tɕ aː˨˨ ŋ s a˦˥ c}|thấm tung trang sách
+5218|ViSSpeech|{l aː˨˨ m ʔ əː˨˨ n h a˨ˀ˥ j z ɨ˨˨ ŋ l aː˨˩ˀ j}|làm ơn hãy dừng lại
+775|ViSSpeech|{l u˦˥ kp s uə˨˦ ŋ k o˨˩˨ ŋm tɕ uə˨˨ k ɔː˨˦ ɣ a˨˩ p m oː˨˩ t ɓ aː˨˨ m aː˨˦ n m ɨə˨˨ ŋ}|lúc xuống cổng chùa có gặp một bà mán mường
+2954|ViSSpeech|{z ɔ˨˩ˀ ŋm k uə˨˩˨ h aː˨˩ˀ l iə˨˨ n ɗ aː˦˥ p}|giọng của hạ liền đáp
+3468|ViSSpeech|{s ɔː˨˨ m ɛː˨˨ tɕ aː˨˨ j l iə˨˨ n tʰ a˦˥ k m a˦˥ k}|some trai liền thắc mắc
+2763|ViSSpeech|{z uː˨˨ l ɔ˨˨ ŋm t aː˨˨ s a˨˨ j m eː˨˨ n iə˨˨ m h a˨˩ˀ ɲ f u˦˥ kp}|ru lòng ta say mê niềm hạnh phúc
+5473|ViSSpeech|{n aː˨˨ ʔ a˨˨ n ɲ iə˨˨ w n aː˨˨ x w ɛː˨˩˨ m a˨˩ˀ ɲ}|Na ăn nhiều Na khỏe mạnh
+3704|ViSSpeech|{t i˨˨ ɲ t aː˨˨ ɲ ɨː˨˨ h aː˨˨ ŋ k ə˨˨ j}|tình ta như hàng cây
+5706|ViSSpeech|{ŋ ɨə˨˨ j k w aː˨˨ ɗ ɨə˨˨ ŋ l u˦˥ kp tɕ iə˨˨ w k u˨ˀ˥ ŋm h iə˨˦ w k iː˨˨}|Người qua đường lúc chiều cũng hiếu kỳ
+580|ViSSpeech|{ʔ ɛː˨˨ m z aː˨˩˨ v əː˨˨ ʔ uə˨˦ ŋ z ɨə˨˩ˀ w v eː˨˨ t ə˨˨ n tɕ ɔː˨˨ n ɔː˨˦ m oː˨˩ t tɕ ə˨˩ˀ n tɕ ɔː˨˨ ɓ ɔː˨ˀ˥ ɣ ɛː˦˥ t}|em giả vờ uống rượu về tần cho nó một trận cho bõ ghét
+5516|ViSSpeech|{ʔ a˨˨ ɲ m aː˨˨ n ɔː˨˦ j n ɨə˨ˀ˥ l aː˨˨ ʔ ɛː˨˨ m v eː˨˨ l uə˨˨ n ɗ ə˨˦ j}|Anh mà nói nữa là em về luôn đấy
+4056|ViSSpeech|{t iə˨˦ ŋ k oː˨˨ n tɕ u˨˨ ŋm z ɛː˨˦ w z a˦˥ t k w iə˨˩ˀ n t iə˨˦ ŋ m ɨə˨˨}|tiếng côn trùng réo rắt quyện tiếng mưa
+4115|ViSSpeech|{ʔ ɛː˨˨ m h iə˨˩˨ w z a˨˨ ŋ m oː˨ˀ˥ j l u˦˥ kp ɗ iː˨˨ s aː˨˨}|em hiểu rằng mỗi lúc đi xa
+1654|ViSSpeech|{k aː˨˩˨ v uː˨˨ j ɓ uə˨˨ n m ɔː˨˩ˀ j n oː˨ˀ˥ j}|cả vui buồn mọi nỗi
+4359|ViSSpeech|{ŋ ɛː˨˨ v ɛː˨˩˨ ŋ ɛː˨˨ v ɛː˨˨}|nghe vẻ nghe ve
+2195|ViSSpeech|{ʔ ɛː˨˨ m v əː˨˦ j tʰ aː˨˩˨ w spn k ɔː˨˦ ɗ iː˨˨ ʔ a˨˨ n tɕ ɛː˨˨}|em với thảo sp sp sp  có đi ăn chè
+3410|ViSSpeech|{m uə˨˨ n v aː˨˨ ŋ t ə˦˥ k ɗ ə˦˥ t}|muôn vàng tấc đất
+5025|ViSSpeech|{tʰ aː˨˨ t iː˨˨ n l aː˨˨ k ɔː˨˦ k ɔː˨˨ n h əː˨˨ n x o˨˨ ŋm}|thà tin là có còn hơn không
+2468|ViSSpeech|{ɓ əː˨˩˨ j tɕ i˨˦ ɲ ɓ aː˨˩˨ n tʰ ə˨˨ n tʰ ə˨˨ j k u˨ˀ˥ ŋm x o˨˨ ŋm ɲ iː˨˨ n z aː˨˨ ɗ ɨə˨˩ k tɕ w iə˨˩ˀ n z iː˨˨}|bởi chính bản thân thầy cũng không nhìn ra được chuyện gì
+2472|ViSSpeech|{ʔ oː˨˨ j t aː˨˨ m o˨˨ ŋm l u˨˨ ŋm tʰ aː˨˦ ŋ tɕ iː˨˦ n tʰ aː˨˦ ŋ m ɨə˨˨ j}|ôi ta mông lung tháng chín tháng mười
+3546|ViSSpeech|{s ɨː˨˩ˀ v iə˨˩ k ɓ aː˨˨ n n a˨ˀ˥ j x iə˨˦ n tɕ ɔː˨˨ tɕ i˨˨ ɲ tɕ ɨə˨˨ h eː˦˥ t ɓ aː˨˨ ŋ h w aː˨˨ ŋ}|sự việc ban nãy khiến cho trinh chưa hết bàng hoàng
+1456|ViSSpeech|{k ə˨˨ w n ɔː˨˦ j k uə˨˩˨ ɓ oː˨˦ k ɛː˨˦ w ʔ ɛː˨˨ m v eː˨˨ h iə˨˩ˀ n t aː˨˩ˀ j}|câu nói của bố kéo em về hiện tại
+1689|ViSSpeech|{k w aː˨˩˨ ɲ iə˨˨ n k a˨˦ ɲ k ɨə˨˩˨ n əː˨˨ j f ɔ˨˨ ŋm tʰ əː˨˨ k uː˨˨ m aː˨˨ n ɗ aː˨˨ ŋ ɓ iː˨˩ˀ h ɛː˨˦ m əː˨˩˨}|quả nhiên cánh cửa nơi phòng thờ kuman đang bị hé mở
+699|ViSSpeech|{tɕ ɔː˨˨ ɓ iə˦˥ t l aː˨˨ k ɔː˨˨ n tʰ aː˨˩˨ w m ə˦˥ t l aː˨˨ n oː˨ˀ˥ j ɗ a˨˨ w k uə˨˩˨ ʔ a˨˨ ɲ tɕ iː˨˩ˀ}|cho biết là con thảo mất là nỗi đau của anh chị
+4469|ViSSpeech|{tɕ əː˨˨ j v eː˨˨ x w iə˨˨}|trời về khuya
+4253|ViSSpeech|{tɕ i˨˩˨ ɲ ɗ a˨˦ ɲ l iə˨˨ w tʰ ɨː˨˩˨ m oː˨˩ t l ə˨˨ n}|chỉnh đánh liều thử một lần
+2443|ViSSpeech|{n ɔː˨˦ k iə˨˨ spn n ɔː˨˦ k iə˨˨}|nó kìa sp sp sp  nó kìa
+2898|ViSSpeech|{k oː˨˨ k ɨː˨˦ ɗ ɨə˨˨ k ə˨˩ˀ w ʔ ə˨˦ j v eː˨˨ ɗ iː˨˨}|cô cứ đưa cậu ấy về đi
+518|ViSSpeech|{ʔ ɛː˨˨ m l iə˨˨ n ŋ ə˨˩ p ŋ ɨ˨˨ ŋ n ɔː˨˦ j}|em liền ngập ngừng nói
+1313|ViSSpeech|{tɕ i˨˨ ɲ k aː˨˩˨ m ʔ əː˨˨ n s ɔ˨˨ ŋm tɕ aː˨˨ j ɗ eː˨˩˨ ɗ ɨ˨˦ ŋ z ə˨˩ˀ j tʰ a˨˨ ɲ t w aː˨˦ n t iə˨˨ n z oː˨˨ j z aː˨˨ v eː˨˨}|chinh cảm ơn xong trai để đứng dậy thanh toán tiền rồi ra về
+1997|ViSSpeech|{m ɛː˨˩ˀ ʔ ɛː˨˨ m z ə˦˥ t h iə˨˨ n}|mẹ em rất hiền
+788|ViSSpeech|{t aː˨˨ tʰ ə˨˦ j k ɔː˨˦ ɲ ɨ˨ˀ˥ ŋ ŋ ɨə˨˨ j m a˨˩ k ɗ oː˨˨ t ə˨˨ j}|ta thấy có những người mặc đồ tây
+1233|ViSSpeech|{ʔ a˨˨ ɲ ɗ aː˨ˀ˥ t iː˨˨ m tɕ oː˨ˀ˥ ɗ aː˨ˀ˥ ɗ iː˨˨ z oː˨˨ j}|anh đã tìm chỗ đã đi rồi
+4262|ViSSpeech|{ʔ ɛː˨˨ m ŋ iː˨ˀ˥ l aː˨˨ k ɔː˨˦ tʰ ə˨˩ t ɗ ə˨˦ j k aː˦˥ k ɓ aː˦˥ k k ɨː˨˦ s ɛː˨˨ m tʰ eː˨˦ n aː˨˨ w tɕ ɨː˨˦}|em nghĩ là có thật đấy các bác cứ xem thế nào chứ
+5818|ViSSpeech|{ɗ eː˨˦ n tɕ iə˨˨ w t aː˨˨}|Đến chiều tà
+225|ViSSpeech|{ɓ aː˨˨ n oː˨˩ˀ j k uə˨˩˨ tʰ aː˨˩˨ w k u˨ˀ˥ ŋm m a˨˦ ŋ ɓ oː˨˦ tʰ aː˨˩˨ w}|bà nội của thảo cũng mắng bố thảo
+4737|ViSSpeech|{k u˨ˀ˥ ŋm tɕ aː˨˩˨ l ə˨˨ w s a˨˨ w x iː˨˨ ʔ a˨˨ ɲ t aː˨˩ˀ ɗ oː˨˩ˀ tɕ ɨə˨˩˨ ŋ tʰ a˨˨ ɲ}|cũng chả lâu sau khi anh tạ độ trưởng thành
+2805|ViSSpeech|{m oː˨ˀ˥ j tʰ uː˨˨ s aː˨˨ ŋ spn m oː˨ˀ˥ j x a˦˥ k ɲ əː˨˦ ʔ ɛː˨˨ m ɲ iə˨˨ w}|mỗi thu sang sp sp sp  mỗi khắc nhớ em nhiều
+2870|ViSSpeech|{tɕ ɨ˦˥ k m ɨ˨˨ ŋ z aː˨˦ ŋ s i˨˨ ɲ}|chức mừng giáng sinh
+4495|ViSSpeech|{k oː˨˨ ɓ aː˨˩ˀ n k iə˨˨ l iə˨˨ n m a˨˦ ŋ}|cô bạn kia liền mắng
+4645|ViSSpeech|{n ɔː˨˦ ɓ a˦˥ t h oː˨˨ n ʔ a˨˨ ɲ tɕ aː˨˨ ŋ ʔ ə˨˦ j ɗ i˨˩ˀ ɲ ɓ iə˨˦ n ʔ a˨˨ ɲ t aː˨˨ tʰ a˨˨ ɲ m oː˨˩ t k a˨˩ p ɗ oː˨˨ j}|nó bắt hồn anh chàng ấy định biến anh ta thành một cặp đôi
+4898|ViSSpeech|{z əː˨˨ ɗ ə˨˨ j s aː˨˨ s ɨː˨˦}|giờ đây xa xứ
