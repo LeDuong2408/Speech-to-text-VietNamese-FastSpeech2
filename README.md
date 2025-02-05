@@ -15,4 +15,4 @@ https://github.com/user-attachments/assets/106ea353-0dac-4645-ae59-46158b4c30a7
 
 https://github.com/user-attachments/assets/f5be9f2f-ee90-45a3-92f6-027ce53c484b
 
-  - You can also watch our team's demo video via [link youtube này](https://youtu.be/mmN39XVUyDs)
+  - You can also watch our team's demo video via [link youtube](https://youtu.be/mmN39XVUyDs)
